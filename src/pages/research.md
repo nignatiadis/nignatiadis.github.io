@@ -15,6 +15,6 @@
 
 1) [IHW](http://bioconductor.org/packages/IHW): A R/Bioconductor package implementing the Independent Hypothesis Weighting method.
 
-2) [IHWpaper](http://bioconductor.org/packages/devel/data/experiment/html/IHWpaper.html) A package reproducing all analyses for the Independent Hypothesis Weighting publications.
+2) [IHWpaper](http://bioconductor.org/packages/devel/data/experiment/html/IHWpaper.html): A package reproducing all analyses for the Independent Hypothesis Weighting publications.
 
 3) [SmoothingSplines.jl](https://github.com/nignatiadis/SmoothingSplines.jl): A statistical package for nonparametric regression via Smoothing Splines in Julia.
