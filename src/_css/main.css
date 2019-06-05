@@ -328,7 +328,10 @@ header li a:hover {
 /*
 narrow display: collapse the header (don't show the menu items)
 instead, display a burger menu.
+https://github.com/tlienart/tlienart.github.io/blob/master/src/_css/main.css
 */
+
+
 @media (max-width: 530px) {
     header {
         height: 35px;
@@ -349,12 +352,15 @@ instead, display a burger menu.
         right: 50px;
         top: 60px;
         width: 30%;
-        border-radius: 4px 0 4px 4px; }
+        border-radius: 4px 0 4px 4px;
+        z-index: 1;}
     nav li {
         text-align: left;
         display: block;
-        padding: 10px 0;
+        padding: 0;
         margin: 0; }
+    header li a { border-bottom: none; }
+    header li a:hover { border-bottom: none; }
     nav:hover ul{
         display: block; }
     #menu-icon {
