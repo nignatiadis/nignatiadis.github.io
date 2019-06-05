@@ -1,8 +1,7 @@
 @def title = "nignatiadis"
 @def hascode = true
-<!-- by default hasmath=true, hascode=false, you can change this in config
-by setting hasmath = false for instance and just setting it to true where
-appropriate -->
+@def hasmath = false
+
 
 ~~~
 <div class="row">
