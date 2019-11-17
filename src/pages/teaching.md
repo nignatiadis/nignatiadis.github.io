@@ -8,6 +8,7 @@
 
 | Quarter         | Course              |   Course Title                          | Instructor
 | --------------- | ------------------- | ----------------------------------------| -----------
+| Fall 2019     | STATS 366 (BIOS 221)| Modern Statistics for Modern Biology    | Susan Holmes & Wolfgang Huber
 | Winter 2019     | STATS 315A          | Modern Applied Statistics: Learning     | Trevor Hastie
 | Fall 2018       | STATS 300A          | Theory of Statistics I                  | Andrea Montanari
 | Summer 2018     | STATS 366 (BIOS 221)| Modern Statistics for Modern Biology    | Susan Holmes
