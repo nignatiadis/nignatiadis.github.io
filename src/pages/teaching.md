@@ -8,8 +8,9 @@
 
 | Quarter         | Course              |   Course Title                          | Instructor
 | --------------- | ------------------- | ----------------------------------------| -----------
-| Winter 2020     | STATS 305B | Applied Statistics II    | Jonathan Taylor
-| Fall 2019     | STATS 366 (BIOS 221)| Modern Statistics for Modern Biology    | Susan Holmes & Wolfgang Huber
+| Spring 2020     | STATS 361           | Causal Inference                        | Stefan Wager
+| Winter 2020     | STATS 305B          | Applied Statistics II                   | Jonathan Taylor
+| Fall 2019       | STATS 366 (BIOS 221)| Modern Statistics for Modern Biology    | Susan Holmes & Wolfgang Huber
 | Winter 2019     | STATS 315A          | Modern Applied Statistics: Learning     | Trevor Hastie
 | Fall 2018       | STATS 300A          | Theory of Statistics I                  | Andrea Montanari
 | Summer 2018     | STATS 366 (BIOS 221)| Modern Statistics for Modern Biology    | Susan Holmes
