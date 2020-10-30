@@ -4,11 +4,13 @@
 ## Publications and Preprints
 
 ### Statistical methodology: Empirical Bayes
-1) Ignatiadis, N., & Wager, S. (2019). **Bias-Aware Confidence Intervals for Empirical Bayes Analysis.** \\ [[arXiv]](https://arxiv.org/abs/1902.02774)[[reproduction code]](https://github.com/nignatiadis/MCEBPaper)[[software]](https://github.com/nignatiadis/MinimaxCalibratedEBayes.jl)
+1) Ignatiadis, N., & Lolas, P. (2020). **Group-regularized ridge regression via empirical Bayes noise level cross-validation.** \\ [[arXiv]](https://arxiv.org/abs/2010.15817 )[[software and reproduction code]](https://github.com/nignatiadis/SigmaRidgeRegression.jl)
 
-2) Ignatiadis, N., Saha, S., Sun D. L., & Muralidharan, O. (2019).  **Empirical Bayes mean estimation with nonparametric errors via order statistic regression.** \\[[arXiv]](https://arxiv.org/abs/1911.05970)[[reproduction code]](https://github.com/nignatiadis/AuroraPaper)
+2) Ignatiadis, N., & Wager, S. (2019). **Bias-Aware Confidence Intervals for Empirical Bayes Analysis.** \\ [[arXiv]](https://arxiv.org/abs/1902.02774)[[reproduction code]](https://github.com/nignatiadis/MCEBPaper)[[software]](https://github.com/nignatiadis/MinimaxCalibratedEBayes.jl)
 
-3) Ignatiadis, N., & Wager, S. (2019). **Covariate-Powered Empirical Bayes Estimation.** Advances in Neural Information Processing Systems 32 (NeurIPS 2019).\\  [[conference]](https://papers.nips.cc/paper/9157-covariate-powered-empirical-bayes-estimation)[[arXiv]](https://arxiv.org/abs/1906.01611)[[poster]](https://nignatiadis.github.io/assets/posters/neurips_2019_covariate_ebayes.pdf)[[reproduction code]](https://github.com/nignatiadis/EBCrossFitPaper)[[software]](https://github.com/nignatiadis/EBayes.jl)
+3) Ignatiadis, N., Saha, S., Sun D. L., & Muralidharan, O. (2019).  **Empirical Bayes mean estimation with nonparametric errors via order statistic regression.** \\[[arXiv]](https://arxiv.org/abs/1911.05970)[[reproduction code]](https://github.com/nignatiadis/AuroraPaper)
+
+4) Ignatiadis, N., & Wager, S. (2019). **Covariate-Powered Empirical Bayes Estimation.** Advances in Neural Information Processing Systems 32 (NeurIPS 2019).\\  [[conference]](https://papers.nips.cc/paper/9157-covariate-powered-empirical-bayes-estimation)[[arXiv]](https://arxiv.org/abs/1906.01611)[[poster]](https://nignatiadis.github.io/assets/posters/neurips_2019_covariate_ebayes.pdf)[[reproduction code]](https://github.com/nignatiadis/EBCrossFitPaper)[[software]](https://github.com/nignatiadis/EBayes.jl)
 
 ### Statistical methodology: Multiple testing
 

@@ -1,6 +1,10 @@
 @def title = "Teaching"
 
+## Courses as Instructor at Stanford Statistics
 
+| Quarter         | Course              |   Course Title                                                        | 
+| --------------- | ------------------- | --------------------------------------------------------------------- | 
+| Summer 2020     | STATS 302           | Applied Statistics PhD Qualifying Exam Workshop                       | 
 
 ## Courses as Teaching Assistant at Stanford Statistics
 
