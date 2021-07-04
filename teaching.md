@@ -12,6 +12,7 @@
 
 | Quarter         | Course              |   Course Title                          | Instructor
 | --------------- | ------------------- | ----------------------------------------| -----------
+| Spring 2021     | STATS 315B          | Modern Applied Statistics: Data Mining  | Jerome Friedman
 | Spring 2020     | STATS 361           | Causal Inference                        | Stefan Wager
 | Winter 2020     | STATS 305B          | Applied Statistics II                   | Jonathan Taylor
 | Fall 2019       | STATS 366 (BIOS 221)| Modern Statistics for Modern Biology    | Susan Holmes & Wolfgang Huber

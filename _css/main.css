@@ -368,3 +368,37 @@ https://github.com/tlienart/tlienart.github.io/blob/master/src/_css/main.css
         margin-right: 10px;
         margin-top: 5px; }
     }
+
+/* tooltip */
+
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  color: #598fc4;
+  background-color: #fff;
+  border-style: dotted;
+  border-width: thin;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px 3px;
+  
+  white-space:nowrap;
+  max-width:none;
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: -100%;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+
+
