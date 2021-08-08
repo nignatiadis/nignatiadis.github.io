@@ -15,7 +15,7 @@
 
 ### Statistical methodology: Multiple testing
 
-1) Ignatiadis, N., & Huber, W. (2018+). **Covariate powered cross-weighted multiple testing.** \\ \arXiv{https://arxiv.org/abs/1701.05179} \reproductioncode{https://github.com/Huber-group-EMBL/covariate-powered-cross-weighted-multiple-testing} \rpkg{http://bioconductor.org/packages/IHW}
+1) Ignatiadis, N., & Huber, W. (2021). **Covariate powered cross-weighted multiple testing.** Journal of the Royal Statistical Society: Series B (JRSS-B).\\ \openaccessjournal{https://doi.org/10.1111/rssb.12411}  \arXiv{https://arxiv.org/abs/1701.05179} \reproductioncode{https://github.com/Huber-group-EMBL/covariate-powered-cross-weighted-multiple-testing} \rpkg{http://bioconductor.org/packages/IHW}
 
 2) Ignatiadis, N., Klaus, B., Zaugg, J. B., & Huber, W. (2016). **Data-driven hypothesis weighting increases detection power in genome-scale multiple testing.** Nature methods, 13(7), 577. \\ \closedaccessjournal{https://www.nature.com/articles/nmeth.3885} \reproductioncode{http://bioconductor.org/packages/devel/data/experiment/html/IHWpaper.html} \rpkg{http://bioconductor.org/packages/IHW}
 

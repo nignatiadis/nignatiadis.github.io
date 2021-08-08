@@ -95,5 +95,24 @@
 ~~~    
 }
 
+\newcommand{\youtube}[1]{
+~~~
+<span class="tooltip">
+<a href=#1><i class="lab la-youtube la-lg"></i></a>
+<span class="tooltiptext">Video</span>
+</span>
+~~~    
+}
+
+
+\newcommand{\slides}[1]{
+~~~
+<span class="tooltip">
+<a href=#1><i class="las la-file-pdf la-lg"></i></a>
+<span class="tooltiptext">Pdf slides</span>
+</span>
+~~~    
+}
+
 
 
