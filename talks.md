@@ -2,7 +2,9 @@
 
 ## Talks
 
-
+**Noise-Induced Randomization in Regression Discontinuity Designs.**\\
+*Causal Inference When Resources Are Limited* at the Joint Statistical Meetings ([JSM](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317140))\\
+August 2021, Zoom
 
 **σ-Ridge: group regularized ridge regression via empirical Bayes noise level cross-validation.**\\
 Statistics seminar at Vrije Universiteit (VU) Amsterdam campus\\
@@ -21,7 +23,7 @@ December 2020, Zoom\\
 
 
 **Bias-Aware Confidence Intervals for Empirical Bayes Analysis.**\
-Causality in Statistical Data Science at the Joint Statistical Meetings ([JSM](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=308148))\\
+*Causality in Statistical Data Science* at the Joint Statistical Meetings ([JSM](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=308148))\\
 August 2020, Zoom
 
 **Covariate-Powered Empirical Bayes Estimation.**\\
