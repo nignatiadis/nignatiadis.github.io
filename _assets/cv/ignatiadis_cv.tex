@@ -1,8 +1,10 @@
 \documentclass[margin,line]{res}
 
+\usepackage{xcolor}
+
 \usepackage[greek, english]{babel}
 \usepackage[utf8x]{inputenc}
-\usepackage{hyperref}
+\usepackage[hidelinks]{hyperref}
 %\usepackage{titlesec}
 
 \newcommand{\g}{\textgreek}
@@ -34,6 +36,13 @@
       \setlength{\parsep}{0in} \setlength{\parskip}{0in}
       \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
       \setlength{\leftmargin}{0.2in}}}{\end{list}}
+\newenvironment{list3}{
+  \begin{list}{}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+\definecolor{urlblue}{HTML}{0000EE}
 
 
 \begin{document}
@@ -44,107 +53,154 @@
 \section{\sc Contact Details}
 \vspace{.05in}
 \begin{tabular}{@{}p{2in}p{4in}}
-Stanford University             & {\tt Telephone:}  +1 (650) 656-0855 \\
-Department of Statistics   & {\tt E-mail:}    ignat@stanford.edu \\
-390 Jane Stanford Way, &  {\tt Website:} \url{https://nignatiadis.github.io/}\\
-Stanford, CA 94305, U.S.A.  & {\tt Google Scholar:} \href{https://scholar.google.com/citations?user=KH3jpkoAAAAJ}{\tt user=KH3jpkoAAAAJ} \\
+Stanford University             & {Telephone:}  +1 (650) 656-0855 \\
+Department of Statistics   & {E-mail:}    ignat@stanford.edu \\
+390 Jane Stanford Way, &  {Website:} \href{https://nignatiadis.github.io/}{https://nignatiadis.github.io/}\\
+Stanford, CA 94305, USA  & {Google Scholar:} \href{https://scholar.google.com/citations?user=KH3jpkoAAAAJ}{user=KH3jpkoAAAAJ} \\
 \end{tabular}
 
 
 
 \section{\sc Research Interests}
-I am interested in the development of interpretable statistical methods, accompanied by robust software implementations, for the analysis of datasets generated from modern, high-throughput technologies. From a statistical perspective, this interest encompasses multiple testing and Empirical Bayes inference in the presence of contextual side-information.
+I am interested in the development of interpretable statistical methods, accompanied by robust software implementations, for the analysis of datasets generated from modern, high-throughput technologies. From a statistical perspective, this interest encompasses Empirical Bayes analysis, causal inference, multiple testing and statistics in the presence of contextual side-information.
 
 \section{\sc Education}
-{\bf Stanford University} \hfill Stanford, California, U.S.A.\\
+{\bf Stanford University} \hfill Stanford, California, USA\\
 %{\em Department of Statistics}
 \vspace*{-.14in}
-\begin{list1}
-\item[]
-\textbf{Ph.D. in Statistics.}  (GPA 4.2+) \hfill  09/2016 -- present\\
-Successful completion of qualifying exams.\\
-Thesis Advisor: Stefan Wager
-\end{list1}
-
-\vspace*{-2.5mm}
-{\bf {Heidelberg University}} \hfill  {Heidelberg, Germany}\\
-%{\em Department of Mathematics and Statistics}
-\vspace*{-.14in}
 \begin{list2}
-\item \textbf{M.Sc. Scientific Computing}, Grade 1.0 \hfill 2015 - 2016
-%\g{Κατάταξη: 41ος μεταξύ περίπου 220 φοιτητών}.
-\item \textbf{B.Sc. Mathematics}, Grade 1.0 with \emph{distinction} \hfill 2011 - 2015
-\item \textbf{B.Sc. Molecular Biotechnology}, Grade 1.0 \hfill 2010 - 2013
-%\g{Kατάταξη στο τέλος του τρίτου έτους: 11ος μεταξύ 216 φοιτητών.}
+\item
+\textbf{Ph.D. in Statistics.}  (GPA 4.24) \hfill  09/2016 -- present\\
+Thesis advisor: Stefan Wager
 \end{list2}
 
 \vspace*{-2.5mm}
-{\bf {{The American College of Greece}}} \hfill  {Athens, Greece}\\
+{\bf {Heidelberg University}} \hfill  {Heidelberg, Germany}\\
 \vspace*{-.14in}
-\begin{list1}
-\item[]
-\textbf{Lykio with Apolytirio Eniaiou Lykiou}  \hfill 2010\\
-Valedictorian
-\end{list1}
+\begin{list2}
+\item \textbf{M.Sc. Scientific Computing}, Grade 1.0 \hfill 2015 - 2016\\
+Thesis advisors: Wolfgang Huber and Enno Mammen 
+\item \textbf{B.Sc. Mathematics}, Grade 1.0 with \emph{distinction} \hfill 2011 - 2015
+\item \textbf{B.Sc. Molecular Biotechnology}, Grade 1.0 \hfill 2010 - 2013
+\end{list2}
 
 
-\section{\sc Preprints}
-\begin{list1}
-\item[1.] Eckles, D., Ignatiadis, N., Wager, S. and Wu, H.  (2020+). \textbf{Noise-Induced Randomization in Regression Discontinuity Designs.} \href{https://arxiv.org/abs/2004.09458}{arXiv:2004.09458}.
-\item[2.] Ignatiadis, N. and Wager, S. (2019+). \textbf{Confidence Intervals for Nonparametric Empirical Bayes Analysis.} \href{https://arxiv.org/abs/1902.02774}{arXiv:1902.02774}.
-\item[3.] Ignatiadis, N., Saha, S., Sun D. L. and Muralidharan, O. (2019+). \textbf{Empirical Bayes mean estimation with nonparametric errors via order statistic regression.} \href{https://arxiv.org/abs/1911.05970}{arXiv:1911.05970}.
-\item[4.] Ignatiadis, N. and Huber, W. (2018+). \textbf{Covariate powered cross-weighted multiple testing.} \href{https://arxiv.org/abs/1701.05179}{arXiv:1701.05179}.
-\end{list1}
+\section{\sc Awards}
+\textbf{Ric Weiland Graduate Fellowship  in the Humanities \& Sciences } \hfill 2020 - 2021\\
+This fellowship is awarded to exceptional rising fourth year doctoral candidates in the humanities, social sciences, mathematics, and
+statistics upon departmental or programmatic nomination.\\
+\textbf{Departmental Teaching Assistant Award}, Statistics Department, Stanford  \hfill  2018\\
+\textbf{iGEM Grand Prize Winner \& Best Foundational Advance} \hfill  2013 \\
+The International Genetically Engineered Machine competition with Team Heidelberg at MIT.\\
+\textbf{Deutschlandstipendium}, Heidelberg University, Stanford \hfill 2011 - 2013\\
+This scholarship is awarded to talented and high-achieving students at public and state recognised institutions of higher education in Germany and is supported by the German Federal Government.
 
 
-\section{\sc Conference proceedings}
-\begin{list1}
-\item[5.] Ignatiadis, N. and Wager, S. (2019). \textbf{Covariate-Powered Empirical Bayes Estimation.} Advances in Neural Information Processing Systems 32 (NeurIPS 2019)
-\end{list1}
+
+
+
+
 \section{\sc Journal Publications}
 \begin{list1}
-\item[6.] Karacosta, L. G., Anchang, B., Ignatiadis, N., \emph{et al.} (2019). \textbf{ Mapping lung cancer epithelial-mesenchymal transition states and trajectories with single-cell resolution.} Nature communications, 1010, 5887.
-\item[7.]  Ignatiadis, N., Klaus, B., Zaugg, J. B. and Huber, W. (2016). \textbf{Data-driven hypothesis weighting increases detection power in genome-scale multiple testing.} Nature methods, 13(7), 577-580.
-\item[8.] Beer, R., Herbst, K., Ignatiadis, N., Kats, I., \emph{et al.} (2014). \textbf{Creating functional engineered variants of the single-module non-ribosomal peptide synthetase IndC by T domain exchange.} Molecular BioSystems, 10(7), 1709-1718.
+\item[1.] Ignatiadis, N., Saha, S., Sun D. L. and Muralidharan, O. (2021). \textbf{Empirical Bayes mean estimation with nonparametric errors via order statistic regression on replicated data.} Journal of the American Statistical Association (forthcoming).
+\item[2.] Ignatiadis, N. and Huber, W. (2021). \textbf{Covariate powered cross-weighted multiple testing.} Journal of the Royal Statistical Society: Series B, 83, 720-751.
+\item[3.] Karacosta, L. G., Anchang, B., Ignatiadis, N., \emph{et al.} (2019). \textbf{Mapping lung cancer epithelial-mesenchymal transition states and trajectories with single-cell resolution.} Nature Communications, 1010, 5887.
+\item[4.]  Ignatiadis, N., Klaus, B., Zaugg, J. B. and Huber, W. (2016). \textbf{Data-driven hypothesis weighting increases detection power in genome-scale multiple testing.} Nature Methods, 13(7), 577-580.
+\item[5.] Beer, R., Herbst, K., Ignatiadis, N., Kats, I., \emph{et al.} (2014). \textbf{Creating functional engineered variants of the single-module non-ribosomal peptide synthetase IndC by T domain exchange.} Molecular BioSystems, 10(7), 1709-1718.
 \end{list1}
+\section{\sc Conference proceedings}
+\begin{list1}
+\item[6.] Ignatiadis, N. and Wager, S. (2019). \textbf{Covariate-Powered Empirical Bayes Estimation.} Advances in Neural Information Processing Systems 32 (NeurIPS 2019)
+\end{list1}
+\section{\sc Preprints}
+\begin{list1}
+\item[7.] Ignatiadis, N. and Wager, S. (2021). \textbf{Confidence Intervals for Nonparametric Empirical Bayes Analysis.} \href{https://arxiv.org/abs/1902.02774}{arXiv:1902.02774}, Major revision submitted to Journal of the American Statistical Association.
+\item[8.] Eckles, D., Ignatiadis, N., Wager, S. and Wu, H. (2021). \textbf{Noise-Induced Randomization in Regression Discontinuity Designs.} \href{https://arxiv.org/abs/2004.09458}{arXiv:2004.09458}, Submitted to Econometrica.
+\item[9.] Ignatiadis, N. and Lolas, P.  (2021). \textbf{$\sigma$-Ridge: group-regularized ridge regression via empirical Bayes noise level cross-validation.} \href{https://arxiv.org/abs/2010.15817}{arXiv:2010.15817}.
+\end{list1}
+
+
+\section{\sc Invited discussions}
+\textbf{International Seminar on Selective Inference (ISSI)} \hfill December 2020\\
+Discussant of the talk `Clipper: p-value-free FDR control on high-throughput data from two conditions' 
+by Prof. Jingyi Jessica Li.
+
+\section{\sc Software}
+{\bf R packages} in Bioconductor:
+\begin{list2}
+\item \href{https://bioconductor.org/packages/IHW}{{\color{urlblue} IHW}}:  Independent Hypothesis Weighting for multiple testing with side-information.
+\item \href{https://bioconductor.org/packages/IHWpaper}{{\color{urlblue} IHWpaper}}: Companion to the IHW package facilitating reproducibility.
+\end{list2}
+{\bf Julia packages} in the official registry:
+\begin{list2}
+\item \href{https://github.com/nignatiadis/Aurora.jl}{{\color{urlblue} Aurora.jl}}: Empirical Bayes mean estimation with nonparametric errors on replicated data.
+\item \href{https://github.com/nignatiadis/Empirikos.jl}{{\color{urlblue} Empirikos.jl}}: Nonparametric empirical Bayes confidence intervals.
+\item \href{https://github.com/nignatiadis/RegressionDiscontinuity.jl}{{\color{urlblue}  RegressionDiscontinuity.jl}}: Basic functionality for analyzing sharp regression discontinuity designs. 
+\item \href{https://github.com/nignatiadis/SigmaRidgeRegression.jl}{{\color{urlblue} SigmaRidgeRegression.jl}}: $\sigma$-Ridge for regression with features that can be partitioned into groups.
+\item \href{https://github.com/nignatiadis/SmoothingSplines.jl}{{\color{urlblue} SmoothingSplines.jl}}: Nonparametric regression using smoothing splines.
+\item Contributions to Distributions.jl, GLM.jl, Lasso.jl, MultipleTesting.jl and others.
+\end{list2}
+
+
+\section{\sc Industry experience}
+\textbf{Google AdsMetrics}, Mountain View, USA \hfill Summer 2019\\
+Data science intern with Omkar Muralidharan, Sujayam Saha and Dennis L. Sun. 
+
+
+\section{\sc Research appointments}
+{\bf Biomedical Informatics},  Stanford, California, USA \hfill 2021 - Present\\
+Research assistant in the group of Prof. Nigam Shah funded by the NHLBI R01 grant `Applying statistical learning tools to personalize cardiovascular treatment'.\\
+{\bf European Molecular Biology Laboratory},  Heidelberg, Germany \hfill 2014 - 2016\\
+Research assistant in the group of Dr. Wolfgang Huber.
 
 \section{\sc Talks and Presentations}
-\begin{list1}
-\item[1.] \textbf{Blue seminar at the European Molecular Biology Laboratory} \hfill January 2020\\
+
+
+\textbf{Noise-Induced Randomization in Regression Discontinuity Designs.} \hfill August 2021\\
+Joint Statistical Meetings (JSM): Causal Inference When Resources Are Limited\\
+Virtual presentation\\
+\textbf{$\sigma$-Ridge: group regularized ridge regression via empirical Bayes} \hfill April 2021\\
+ \textbf{noise level cross-validation.}\\
+Statistics seminar at Vrije Universiteit (VU) Amsterdam campus\\
+Virtual presentation\\
+\textbf{Confidence Intervals for Nonparametric Empirical Bayes Analysis.} \hfill April 2021\\
+International Seminar on Selective Inference (ISSI)\\
+Virtual presentation\\
+\textbf{Bias-Aware Confidence Intervals for Empirical Bayes Analysis.} \hfill August 2020\\
+Joint Statistical Meetings (JSM): Causality in Statistical Data Science\\
+Virtual presentation\\
+\textbf{Covariate-Powered Empirical Bayes Estimation.} \hfill January 2020\\
+Blue seminar at the European Molecular Biology Laboratory\\
 European Molecular Biology Laboratory (EMBL), Heidelberg, Germany\\
-Invited talk -- Covariate-Powered Empirical Bayes Estimation.
-\item[2.] \textbf{11th International Conference on Multiple Comparison Procedures} \hfill December 2019\\
+\textbf{Covariate-Powered Empirical Bayes Estimation.} \hfill December 2019\\
+11th International Conference on Multiple Comparison Procedures\\
 National Taiwan University (NTU), Taipei, Taiwan\\
-Talk -- Covariate-Powered Empirical Bayes Estimation.
-\item[3.] \textbf{Atlantic Causal Inference Conference} \hfill May 2019\\
+\textbf{Bias-Aware Confidence Intervals for Empirical Bayes Estimation.} \hfill May 2019\\
+Atlantic Causal Inference Conference (ACIC)\\
 McGill University, Montreal, Canada\\
-Invited talk -- Bias-Aware Confidence Intervals for Empirical Bayes Estimation.
-\item[4.] \textbf{Statistics Industrial Affiliates Conference} \hfill February 2019\\
+\textbf{Covariate powered cross-weighted multiple testing.} \hfill February 2019\\
+Statistics Industrial Affiliates Conference\\
 Stanford University, California, USA\\
-Contributed talk -- Covariate powered cross-weighted multiple testing.
-\item[5.] \textbf{Workshop: Post-selection Inference and Multiple Testing} \hfill February 2018\\
-Institut de Mathématiques de Toulouse, France\\
-Invited talk -- Covariate-powered cross-weighted multiple testing with FDR Control.
-\item[6.] \textbf{JuliaCon}, Berkeley  (\url{http://www.youtube.com/watch?v=R8NEfWZAVmw}
-) \hfill June 2017\\
-Lightning talk -- MultipleTesting.jl: Simultaneous Statistical Inference in Julia.
-\item[7.] \textbf{International Symposium on Synthetic Biology} \hfill December 2013 \\German Cancer Research Center, Heidelberg, Germany\\
-Presentation about Team Heidelberg's iGEM project.
-\end{list1}
+\textbf{Covariate-powered cross-weighted multiple testing with FDR Control.} \hfill February 2018\\
+Workshop: Post-selection Inference and Multiple Testing\\
+Institut de Mathématiques de Toulouse, Toulouse, France\\
+\textbf{MultipleTesting.jl: Simultaneous Statistical Inference in Julia.} \hfill June 2017\\
+Lightning talk at JuliaCon\\
+Berkeley, California, USA
 
 
-
-\section{\sc Internships}
-\textbf{Data science intern} at Google AdsMetrics, Mountain View, USA \hfill Summer 2019\\
-I developed an automated empirical Bayes method that estimates means by instead solving a supervised prediction problem and applied the method to predict changes in cost-per-click and click-through-rate for each advertiser in a large-scale experiment.
 
 
 
 \section{\sc Teaching}
+\textbf{Instructor} at Stanford\\
+STATS 302: Applied Statistics PhD Qualifying Exam Workshop. \hfill Summer 2020
 
+\ver
 \textbf{Teaching Assistant (TA)} at Stanford\\
-STATS 361: Causal Inference . \hfill Spring 2020\\
-STATS 305B: Applied Statistics II . \hfill Winter 2020\\
+STATS 315B: Modern Applied Statistics: Data Mining. \hfill Spring 2021\\ 
+STATS 361: Causal Inference. \hfill Spring 2020\\
+STATS 305B: Applied Statistics II. \hfill Winter 2020\\
 STATS 315A: Modern Applied Statistics: Learning. \hfill Winter 2019\\
 STATS 300A: Theory of Statistics I. \hfill Fall 2018\\
 STATS 366 (BIOS 221): Modern Statistics for Modern Biology. \hfill Summer 2017 \& 2018, Fall 2019\\
@@ -155,8 +211,8 @@ STATS 191: Introduction to Applied Statistics. \hfill Winter 2017\\
 STATS 141 (BIOS 141): Biostatistics.\hfill Fall 2016
 
 \ver
-\textbf{Trainer}\\
-Introductory Course: Statistical Bioinformatics using R and Bioconductor \hfill October 2015\\ EMBL (European Molecular Biology Laboratory), Heidelberg, Germany
+\textbf{Trainer} at EMBL (European Molecular Biology Laboratory)\\
+Introductory Course: Statistical Bioinformatics using R and Bioconductor \hfill October 2015
 
 
 
@@ -164,52 +220,18 @@ Introductory Course: Statistical Bioinformatics using R and Bioconductor \hfill 
 \section{\sc Professional Service}
 
 \textbf{Journal peer review}\\
-Annals of Statistics, Bernoulli, Bioinformatics, Biometrics, Biometrika, Electronic Journal of Statistics, Journal of the American Statistical Association, PeerJ, Statistical Science (\url{https://publons.com/author/1470395})
+Annals of Statistics, Bernoulli, Bioinformatics, Biometrics, Biometrika, Electronic Journal of Statistics, Journal of the American Statistical Association, Operations Research, PeerJ, Statistical Science
 
 \ver
 \textbf{Conference peer review}\\
 AISTATS 2021
 
 
-\section{\sc Scholarships}
-
-
-\textbf{Deutschlandstipendium} \hfill 2011-2013\\
-A scholarship for talented and high-achieving students at public and state recognised institutions of higher education in Germany supported by the German Federal Government.
-
-
-\section{\sc Awards and Honors}
-\textbf{Departmental Teaching Assistant Award}, Statistics Department, Stanford \hfill June 2018
-
-\textbf{Grand Prize Winner \& Best Foundational Advance} in the \textbf{iGEM} \hfill November 2013 \\
-(international Genetically Engineered Machine) competition with Team Heidelberg, MIT.
-
-\ver
-\textbf{Bronze medal} in the International Biology Olympiad (\textbf{IBO}), Changwon, South Korea. \hfill July 2010
-
-\ver
-\textbf{Rank 3} in the 6th National Biology Competition, Greece.\hfill May 2010
-\ver
-
-\textbf{Rank 8} in the 8th European Competition of the Ancient Greek language. \hfill June 2009
 
 
 
 
-\section{\sc Languages}
-\textbf{English} (Fluent), \textbf{German} (Native), \textbf{Greek} (Native)
 
-
-\section{\sc Programming Languages}
-\textbf{R}, \textbf{Julia}, Python, C
-
-
-\section{\sc Open-Source Software}
-\textbf{IHW} (\url{http://bioconductor.org/packages/IHW})\\ A R/Bioconductor package implementing the Independent Hypothesis Weighting method. \\
-\textbf{IHWpaper} (\url{http://bioconductor.org/packages/devel/data/experiment/html/IHWpaper.html})\\
-A package reproducing all analyses for the Independent Hypothesis Weighting publications.\\
-\textbf{SmoothingSplines.jl} (\url{https://github.com/nignatiadis/SmoothingSplines.jl})\\
-A statistical package for nonparametric regression via Smoothing Splines in Julia.
 
 \end{resume}
 \end{document}

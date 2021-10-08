@@ -6,11 +6,11 @@
 
 ### Statistical methodology: Empirical Bayes
 
-1) Ignatiadis, N., Saha, S., Sun D. L., & Muralidharan, O. (2021).  **Empirical Bayes mean estimation with nonparametric errors via order statistic regression on replicated data.**  Journal of the American Statistical Association (forthcoming). \\ \closedaccessjournal{https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1967164} \arXiv{https://arxiv.org/abs/1911.05970} \reproductioncode{https://github.com/nignatiadis/AuroraPaper} \juliadots{https://github.com/nignatiadis/Aurora.jl}
+1) Ignatiadis, N., Saha, S., Sun D. L., & Muralidharan, O. (2021).  **Empirical Bayes mean estimation with nonparametric errors via order statistic regression on replicated data.**  Journal of the American Statistical Association (forthcoming). \\ \openaccessjournal{https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1967164} \arXiv{https://arxiv.org/abs/1911.05970} \reproductioncode{https://github.com/nignatiadis/AuroraPaper} \juliadots{https://github.com/nignatiadis/Aurora.jl}
 
-2) Ignatiadis, N., & Lolas, P. (2020+). **σ-Ridge: group-regularized ridge regression via empirical Bayes noise level cross-validation.** \\ \arXiv{https://arxiv.org/abs/2010.15817} \reproductioncode{https://github.com/nignatiadis/SigmaRidgeRegression.jl/tree/master/reproduction_code} \juliadots{https://github.com/nignatiadis/SigmaRidgeRegression.jl}
+2) Ignatiadis, N., & Wager, S. (2021). **Confidence Intervals for Nonparametric Empirical Bayes Analysis.** arXiv preprint. \\ \arXiv{https://arxiv.org/abs/1902.02774} \reproductioncode{https://github.com/nignatiadis/empirical-bayes-confidence-intervals-paper}\juliadots{https://github.com/nignatiadis/Empirikos.jl}
 
-3) Ignatiadis, N., & Wager, S. (2019+). **Confidence Intervals for Nonparametric Empirical Bayes Analysis.** \\ \arXiv{https://arxiv.org/abs/1902.02774} \reproductioncode{https://github.com/nignatiadis/empirical-bayes-confidence-intervals-paper}\juliadots{https://github.com/nignatiadis/Empirikos.jl}
+3) Ignatiadis, N., & Lolas, P. (2021). **σ-Ridge: group-regularized ridge regression via empirical Bayes noise level cross-validation.** arXiv preprint. \\ \arXiv{https://arxiv.org/abs/2010.15817} \reproductioncode{https://github.com/nignatiadis/SigmaRidgeRegression.jl/tree/master/reproduction_code} \juliadots{https://github.com/nignatiadis/SigmaRidgeRegression.jl}
 
 
 4) Ignatiadis, N., & Wager, S. (2019). **Covariate-Powered Empirical Bayes Estimation.** Advances in Neural Information Processing Systems 32 (NeurIPS 2019).\\  \conferencepaper{https://papers.nips.cc/paper/9157-covariate-powered-empirical-bayes-estimation} \arXiv{https://arxiv.org/abs/1906.01611} \poster{https://nignatiadis.github.io/assets/posters/neurips_2019_covariate_ebayes.pdf} \reproductioncode{https://github.com/nignatiadis/EBCrossFitPaper} \juliadots{https://github.com/nignatiadis/EBayes.jl}
@@ -23,7 +23,7 @@
 
 ### Statistical methodology: Causal inference
 
-1) Eckles, D., Ignatiadis, N., Wager, S., & Wu, H. (2020+). **Noise-Induced Randomization in Regression Discontinuity Designs** \\ \arXiv{https://arxiv.org/abs/2004.09458}
+1) Eckles, D., Ignatiadis, N., Wager, S., & Wu, H. (2020). **Noise-Induced Randomization in Regression Discontinuity Designs.** arXiv preprint. \\ \arXiv{https://arxiv.org/abs/2004.09458}
 
 ### Applied Collaborations
 

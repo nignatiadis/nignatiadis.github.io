@@ -27,7 +27,7 @@
 | Fall 2016       | STATS 141 (BIOS 141)| Biostatistics                           | Rajarshi Mukherjee
 
 
-## Awards
+## Teaching Awards
 
 
 * **Departmental Teaching Assistant Award**, Statistics Department, Stanford, June 2018
