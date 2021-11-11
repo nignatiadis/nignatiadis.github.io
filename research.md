@@ -6,9 +6,11 @@
 
 ### Statistical methodology: Empirical Bayes
 
-1) Ignatiadis, N., Saha, S., Sun D. L., & Muralidharan, O. (2021).  **Empirical Bayes mean estimation with nonparametric errors via order statistic regression on replicated data.**  Journal of the American Statistical Association (forthcoming). \\ \openaccessjournal{https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1967164} \arXiv{https://arxiv.org/abs/1911.05970} \reproductioncode{https://github.com/nignatiadis/AuroraPaper} \juliadots{https://github.com/nignatiadis/Aurora.jl}
+1) Ignatiadis, N., & Wager, S. (2021). **Confidence Intervals for Nonparametric Empirical Bayes Analysis.** Journal of the American Statistical Association, Theory and Methods (forthcoming).\\*Selected as a **discussion paper** by the editors of JASA. The discussion will take place at JSM 2022.*\\\arXiv{https://arxiv.org/abs/1902.02774} \reproductioncode{https://github.com/nignatiadis/empirical-bayes-confidence-intervals-paper}\juliadots{https://github.com/nignatiadis/Empirikos.jl}
 
-2) Ignatiadis, N., & Wager, S. (2021). **Confidence Intervals for Nonparametric Empirical Bayes Analysis.** arXiv preprint. \\ \arXiv{https://arxiv.org/abs/1902.02774} \reproductioncode{https://github.com/nignatiadis/empirical-bayes-confidence-intervals-paper}\juliadots{https://github.com/nignatiadis/Empirikos.jl}
+
+2) Ignatiadis, N., Saha, S., Sun D. L., & Muralidharan, O. (2021).  **Empirical Bayes mean estimation with nonparametric errors via order statistic regression on replicated data.**  Journal of the American Statistical Association, Theory and Methods (forthcoming). \\ \openaccessjournal{https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1967164} \arXiv{https://arxiv.org/abs/1911.05970} \reproductioncode{https://github.com/nignatiadis/AuroraPaper} \juliadots{https://github.com/nignatiadis/Aurora.jl}
+
 
 3) Ignatiadis, N., & Lolas, P. (2021). **σ-Ridge: group-regularized ridge regression via empirical Bayes noise level cross-validation.** arXiv preprint. \\ \arXiv{https://arxiv.org/abs/2010.15817} \reproductioncode{https://github.com/nignatiadis/SigmaRidgeRegression.jl/tree/master/reproduction_code} \juliadots{https://github.com/nignatiadis/SigmaRidgeRegression.jl}
 
