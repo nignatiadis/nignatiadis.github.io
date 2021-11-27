@@ -3,6 +3,15 @@
 ## Talks
 
 **Noise-Induced Randomization in Regression Discontinuity Designs.**\\
+Fourth Annual Berkeley-Stanford [Econometrics Jamboree](http://bryangraham.github.io/econometrics/econometrics/conferences/2021/10/12/Econometrics-Jamboree.html) at UC Berkeley\\
+November 2021, Berkeley, USA
+
+**Noise-Induced Randomization in Regression Discontinuity Designs.**\\
+[Causal Science Conference](https://datascience.stanford.edu/research/causal-science/causal-science-conference-2021) at Stanford University\\
+November 2021, Stanford, USA
+
+
+**Noise-Induced Randomization in Regression Discontinuity Designs.**\\
 *Causal Inference When Resources Are Limited* at the Joint Statistical Meetings ([JSM](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317140))\\
 August 2021, Zoom
 
@@ -16,7 +25,7 @@ April 2021, Zoom\\
 \slides{https://drive.google.com/file/d/1xxlfNiAGVm2jqqhdTXYhIuhxDq7QszNK/view}
 \youtube{https://drive.google.com/file/d/1zsnXlD6VBHCxLLMeYpaVH5T3A0e4uvaK/view?usp=sharing}
 
-**Discussion of "Clipper: p-value-free FDR control on high-throughput data from two conditions"**.
+**Discussion of "Clipper: p-value-free FDR control on high-throughput data from two conditions."**
 Discussant at the International Seminar on Selective Inference ([ISSI](https://www.selectiveinferenceseminar.com/))\\
 December 2020, Zoom\\
 \youtube{https://drive.google.com/file/d/1XaSUpSniGKVmWKaSvMedVIFzshViVah7/view?usp=sharing}
