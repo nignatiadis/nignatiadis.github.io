@@ -6,7 +6,7 @@
 
 ### Statistical methodology: Empirical Bayes
 
-1) Ignatiadis, N., & Wager, S. (2021). **Confidence Intervals for Nonparametric Empirical Bayes Analysis.** Journal of the American Statistical Association, Theory and Methods (forthcoming).\\*Selected as a **discussion paper** by the editors of JASA. The discussion will take place at JSM 2022.*\\\closedaccessjournal{https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.2008403} \arXiv{https://arxiv.org/abs/1902.02774} \reproductioncode{https://github.com/nignatiadis/empirical-bayes-confidence-intervals-paper}\juliadots{https://github.com/nignatiadis/Empirikos.jl}
+1) Ignatiadis, N., & Wager, S. (2022). **Confidence Intervals for Nonparametric Empirical Bayes Analysis.** Journal of the American Statistical Association, Theory and Methods (forthcoming).\\*Selected as a **discussion paper** by the editors of JASA. The discussion will take place at JSM 2022.*\\\closedaccessjournal{https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.2008403} \arXiv{https://arxiv.org/abs/1902.02774} \reproductioncode{https://github.com/nignatiadis/empirical-bayes-confidence-intervals-paper}\juliadots{https://github.com/nignatiadis/Empirikos.jl}
 
 
 2) Ignatiadis, N., Saha, S., Sun D. L., & Muralidharan, O. (2021).  **Empirical Bayes mean estimation with nonparametric errors via order statistic regression on replicated data.**  Journal of the American Statistical Association, Theory and Methods (forthcoming). \\ \openaccessjournal{https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1967164} \arXiv{https://arxiv.org/abs/1911.05970} \reproductioncode{https://github.com/nignatiadis/AuroraPaper} \juliadots{https://github.com/nignatiadis/Aurora.jl}
@@ -25,7 +25,7 @@
 
 ### Statistical methodology: Causal inference
 
-1) Eckles, D., Ignatiadis, N., Wager, S., & Wu, H. (2020). **Noise-Induced Randomization in Regression Discontinuity Designs.** arXiv preprint. \\ \arXiv{https://arxiv.org/abs/2004.09458}
+1) Eckles, D., Ignatiadis, N., Wager, S., & Wu, H. (2022). **Noise-Induced Randomization in Regression Discontinuity Designs.** arXiv preprint. \\ \arXiv{https://arxiv.org/abs/2004.09458}  \reproductioncode{https://github.com/nignatiadis/noise-induced-randomization-paper} \juliadots{https://github.com/nignatiadis/RegressionDiscontinuity.jl}
 
 ### Applied Collaborations
 
