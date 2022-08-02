@@ -402,3 +402,67 @@ https://github.com/tlienart/tlienart.github.io/blob/master/src/_css/main.css
 
 
 
+/* list related CSS
+*/ 
+
+
+body {
+    counter-reset: bibitem;
+}
+
+/*
+
+
+ol {
+    margin-bottom: .5rem;
+    display: block;
+    list-style-type: none;
+    margin-left: -2ex;
+}
+
+ol > li:before {
+    margin-left: -2em;
+    content: "["counter(bibitem) "]";
+    padding-right: .5em;
+    text-align: right;
+    width: 3em;
+}
+
+ol > li {
+    padding-bottom:1rem;
+    clear: both;
+    counter-increment: bibitem +1;
+}
+*/
+
+
+ol li {
+    padding-bottom:1rem;
+    display: table-row;
+}
+  
+ol li::before {
+    display:table-cell;
+    /*text-align:right; uncomment this if you want to align to the right  */
+    content: "«"counter(bibitem)"»";
+    font-size:12px;
+    counter-increment: bibitem 1;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    /* we use background instead of border */
+    background: linear-gradient(rgba(72, 124, 194, 0.4),rgba(72, 124, 184, 0.4)) 
+       right 15px top 0/ /* right=padding right*/
+       2.5px calc(100% - 10px) /* width=2.5px height=100% - padding bottom */
+       no-repeat;
+}
+
+ol li span.title {
+    font-weight: bold;
+}
+
+ol li span.year:before {
+    content: "\00a0(";
+}
+ol li span.year:after {
+    content: ")";
+}
