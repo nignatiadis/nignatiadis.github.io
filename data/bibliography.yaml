@@ -1,0 +1,175 @@
+"IgnatiadisHuber2021":
+    author:
+        - Nikolaos Ignatiadis
+        - Wolfgang Huber
+    title: "Covariate powered cross-weighted multiple testing"
+    year: 2021
+    journal: "Journal of the Royal Statistical Society: Series B (JRSS-B)"
+    openaccess: "https://doi.org/10.1111/rssb.12411"
+    arXiv: "https://arxiv.org/abs/1701.05179"
+    reproduction_code: "https://github.com/Huber-group-EMBL/covariate-powered-cross-weighted-multiple-testing"
+    r_package: "http://bioconductor.org/packages/IHW"
+
+"IgnatiadisKlausZauggHuber2016":
+    author:
+        - Nikolaos Ignatiadis
+        - Bernd Klaus
+        - Judith Zaugg
+        - Wolfgang Huber
+    title: "Data-driven hypothesis weighting increases detection power in genome-scale multiple testing"
+    journal: "Nature methods, 13(7), 577"
+    closedaccess: "https://www.nature.com/articles/nmeth.3885"
+    reproduction_code: "http://bioconductor.org/packages/devel/data/experiment/html/IHWpaper.html"
+    r_package: "http://bioconductor.org/packages/IHW"
+    year: 2016
+
+"Eckles2022":
+    author:
+        - Dean Eckles
+        - Nikolaos Ignatiadis
+        - Stefan Wager
+        - Han Wu
+    title: "Noise-Induced Randomization in Regression Discontinuity Designs"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2004.09458"
+    reproduction_code: "https://github.com/nignatiadis/noise-induced-randomization-paper"
+    julia_package: "https://github.com/nignatiadis/RegressionDiscontinuity.jl"
+    year: 2022
+
+
+"Xu2022":
+    author:
+        - Yizhe Xu
+        - Nikolaos Ignatiadis
+        - Erik Sverdrup
+        - Scott Fleming
+        - Stefan Wager
+        - Nigam H. Shah 
+    title: "Treatment Heterogeneity with Survival Outcomes"
+    journal: "Chapter in: Handbook of Matching and Weighting Adjustments for Causal Inference. CRC Press (forthcoming)"
+    arXiv: "https://arxiv.org/abs/2207.07758"
+    reproduction_code: "https://github.com/som-shahlab/survlearners"
+    r_package: "https://github.com/som-shahlab/survlearners/tree/master/r-package/survlearners"
+    year: 2022
+
+"IgnatiadisWager2019":
+    author:
+        - Nikolaos Ignatiadis
+        - Stefan Wager
+    title: "Covariate-Powered Empirical Bayes Estimation"
+    journal: "Advances in Neural Information Processing Systems 32 (NeurIPS 2019)"
+    conference: "https://papers.nips.cc/paper/9157-covariate-powered-empirical-bayes-estimation"
+    arXiv: "https://arxiv.org/abs/1906.01611"
+    reproduction_code: "https://github.com/nignatiadis/EBCrossFitPaper"
+    julia_package: "https://github.com/nignatiadis/EBayes.jl"
+    year: 2019
+    poster: "https://nignatiadis.github.io/assets/posters/neurips_2019_covariate_ebayes.pdf"
+
+
+"IgnatiadisLolas2021":
+    author:
+        - Nikolaos Ignatiadis
+        - Panagiotis Lolas
+    title: "σ-Ridge: group-regularized ridge regression via empirical Bayes noise level cross-validation"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2010.15817"
+    reproduction_code: "https://github.com/nignatiadis/SigmaRidgeRegression.jl/tree/master/reproduction_code"
+    julia_package: "https://github.com/nignatiadis/SigmaRidgeRegression.jl"
+    year: 2021
+
+"IgnatiadisSahaSunMuralidharan2021":
+    author:
+        - Nikolaos Ignatiadis
+        - Sujayam Saha
+        - Dennis L. Sun
+        - Omkar Muralidharan
+    title: "Empirical Bayes mean estimation with nonparametric errors via order statistic regression on replicated data"
+    journal: "Journal of the American Statistical Association, Theory and Methods (forthcoming)"
+    openaccess: "https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1967164"
+    arXiv: "https://arxiv.org/abs/1911.05970"
+    reproduction_code: "https://github.com/nignatiadis/AuroraPaper"
+    julia_package: "https://github.com/nignatiadis/Aurora.jl"
+    year: 2021
+
+
+"IgnatiadisWager2022":
+    author:
+        - Nikolaos Ignatiadis
+        - Stefan Wager
+    title: "Confidence Intervals for Nonparametric Empirical Bayes Analysis"
+    journal: "Journal of the American Statistical Association, Theory and Methods (forthcoming)"
+    closedaccess: "https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.2008403"
+    arXiv: "https://arxiv.org/abs/1902.02774"
+    reproduction_code: "https://github.com/nignatiadis/empirical-bayes-confidence-intervals-paper"
+    julia_package: "https://github.com/nignatiadis/Empirikos.jl"
+    year: 2022
+    note: "Selected as a <b>discussion paper</b> by the editors of JASA. The discussion will take place at JSM 2022."
+
+
+"Karacosta2021":
+    author:
+        - Loukia Karacosta
+        - Benedict Anchang
+        - Nikolaos Ignatiadis
+        - Samuel Kimmey
+        - Jalen Benson
+        - Joseph Shrager
+        - Robert Tibshirani
+        - Sean Bendall
+        - Sylvia K. Plevritis
+    title: "Mapping lung cancer epithelial-mesenchymal transition states and trajectories with single-cell resolution"
+    journal: "Nature communications, 10, 5887"
+    openaccess: "https://www.nature.com/articles/s41467-019-13441-6"
+    biorXiv: "https://www.biorxiv.org/content/10.1101/570341v1"
+    reproduction_code: "https://github.com/nignatiadis/TRACER"
+    julia_package: "https://github.com/nignatiadis/Empirikos.jl"
+    year: 2019
+
+
+
+"Beer2014":
+    author:
+        - Ralf Beer
+        - Konrad Herbst
+        - Nikolaos Ignatiadis
+        - Ilia Kats
+        - Lorenz Adlung
+        - Hannah Meyer
+        - Dominik Niopek
+        - Tania Christiansen
+        - Fanny Georgi
+        - Nils Kurzawa
+        - Johanna Meichsner
+        - Sophie Rabe
+        - Anja Riedel
+        - Joshua Sachs
+        - Julia Schessner
+        - Florian Schmidt
+        - Philipp Walch
+        - Katharina Niopek
+        - Tim Heinemann
+        - Roland Eils
+        - Barbara Di Ventura
+    title: "Creating functional engineered variants of the single-module non-ribosomal peptide synthetase IndC by T domain exchange"
+    journal: "Molecular BioSystems, 10(7), 1709-1718"
+    closedaccess: "https://doi.org/10.1039/C3MB70594C"
+    year: 2014
+
+
+"Pfohl2022":
+    author:
+        - Stephen Pfohl
+        - Yizhe Xu
+        - Agata Foryciarz
+        - Nikolaos Ignatiadis
+        - Julian Genkins
+        - Nigam H. Shah
+    title: "Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare"
+    journal: "ACM Conference on Fairness, Accountability, and Transparency (FAccT'22)"
+    conference: "https://dl.acm.org/doi/10.1145/3531146.3533166"
+    arXiv: "https://arxiv.org/abs/2202.01906"
+    reproduction_code: "https://github.com/som-shahlab/net_benefit_ascvd"
+    year: 2022
+
+
+
