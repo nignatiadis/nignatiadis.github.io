@@ -97,13 +97,26 @@
         - Nikolaos Ignatiadis
         - Stefan Wager
     title: "Confidence Intervals for Nonparametric Empirical Bayes Analysis"
-    journal: "Journal of the American Statistical Association, Theory and Methods (forthcoming)"
+    journal: "Journal of the American Statistical Association, Theory and Methods"
+    pages: "1149-1166"
+    volume: "117"
+    issue: "539"
     closedaccess: "https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.2008403"
     arXiv: "https://arxiv.org/abs/1902.02774"
     reproduction_code: "https://github.com/nignatiadis/empirical-bayes-confidence-intervals-paper"
     julia_package: "https://github.com/nignatiadis/Empirikos.jl"
     year: 2022
-    note: "Selected as a <b>discussion paper</b> by the editors of JASA. The discussion will take place at JSM 2022."
+    note: "Selected as a <b>discussion paper</b> by the editors of JASA. The discussion took place at JSM 2022.
+     <b>Discussants:</b>
+     <a href=https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2096040>Noel Cressie</a>,
+     <a href=https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2093726>Subhashis Ghosal</a>,
+     <a href=https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2093728>Peter Hoff</a>,
+     <a href=https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2093725>Bradley Efron</a>,
+     <a href=https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2102501>Guido Imbens</a>,
+     <a href=https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2096039>Marianna Pensky</a>,
+     <a href=https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2093727>Dongyue Xie & Matthew Stephens.</a>
+     <b> Rejoinder:</b>
+     <a href=https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2093729>N.I. & Stefan Wager.</a>"
 
 
 "Karacosta2021":
@@ -171,5 +184,14 @@
     reproduction_code: "https://github.com/som-shahlab/net_benefit_ascvd"
     year: 2022
 
-
+"IgnatiadisWangRamdas2022":
+    author:
+        - Nikolaos Ignatiadis
+        - Ruodu Wang
+        - Aaditya Ramdas
+    title: "E-values as unnormalized weights in multiple testing"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2204.12447"
+    reproduction_code: "https://github.com/nignatiadis/evalues-as-weights-paper"
+    year: 2022
 

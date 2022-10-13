@@ -20,7 +20,10 @@
 
 ### Statistical methodology: Multiple testing
 
-@def multiple_testing_papers = ["IgnatiadisHuber2021"; "IgnatiadisKlausZauggHuber2016"]
+@def multiple_testing_papers = [
+    "IgnatiadisWangRamdas2022";
+    "IgnatiadisHuber2021"; 
+    "IgnatiadisKlausZauggHuber2016"]
 
 {{ bibliographyprint multiple_testing_papers }}
 
