@@ -1,0 +1,198 @@
+"GenomeBiology2016":
+  title: "Data-driven hypothesis weighting increases detection power in genome-scale multiple testing"
+  year: 2016
+  month: "July"
+  event: "Genome Biology Seminar at the European Molecular Biology Laboratory (EMBL)"
+  location: "Heidelberg, Germany"
+
+"JuliaCon2017":
+  title: "MultipleTesting.jl: Simultaneous Statistical Inference in Julia"
+  year: 2017
+  month: "June"
+  event: "Lightning talk at JuliaCon"
+  location: "Berkeley, CA, USA"
+  video: "http://www.youtube.com/watch?v=R8NEfWZAVmw"
+
+"Toulouse2018":
+  title: "Covariate-powered cross-weighted multiple testing with FDR Control"
+  year: 2018
+  month: "February"
+  event: "Workshop in Post-selection Inference and Multiple Testing at the Institut de Mathématiques de Toulouse"
+  location: "Toulouse, France"
+  slides: "https://plmbox.math.cnrs.fr/d/09a8b9fc3d5140f98060/files/?p=%2F3c_Ignatiadis.pdf"
+
+"IndustrialAffiliates2019":
+  title: "Covariate powered cross-weighted multiple testing"
+  year: 2019
+  month: "February"
+  event: "Statistics Industrial Affiliates Conference at Stanford University"
+  location: "Stanford, CA, USA"
+
+"ACIC2019":
+  title: "Bias-Aware Confidence Intervals for Empirical Bayes Analysis"
+  year: 2019
+  month: "May"
+  event: "Atlantic Causal Inference Conference at McGill University"
+  location: "Montreal, Canada"
+
+"MCP2019":
+  title: "Covariate-Powered Empirical Bayes Estimation"
+  year: 2019
+  month: "December"
+  event: "11th International Conference on Multiple Comparison Procedures at the National Taiwan University (NTU)"
+  location: "Taipei, Taiwan"
+
+"Blue2020":
+  title: "Covariate-Powered Empirical Bayes Estimation"
+  year: 2020
+  month: "January"
+  event: "Blue Seminar at the European Molecular Biology Laboratory (EMBL)"
+  location: "Heidelberg, Germany"
+  link: "https://www.lifescience.net/events/41029/nikos-ignatiadis-covariate-powered-empirical-bayes/"
+
+"JSM2020":
+  title: "Bias-Aware Confidence Intervals for Empirical Bayes Analysis"
+  year: 2020
+  month: "August"
+  event: "Causality in Statistical Data Science at the Joint Statistical Meetings (JSM)"
+  location: "Virtual"
+  link: "https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=308148"
+
+"Discussion2020ISSI":
+  title: "Discussion of 'Clipper: p-value-free FDR control on high-throughput data from two conditions'"
+  year: 2020
+  month: "December"
+  event:  "Discussant at the International Seminar on Selective Inference (ISSI)"
+  location: "Virtual"
+  video: "https://drive.google.com/file/d/1XaSUpSniGKVmWKaSvMedVIFzshViVah7/view?usp=sharing"
+  link: "https://www.selectiveinferenceseminar.com/"
+
+"ISSI2021":
+  title: "Confidence Intervals for Nonparametric Empirical Bayes Analysis"
+  year: 2021
+  month: "April"
+  event: "International Seminar on Selective Inference (ISSI)"
+  location: "Virtual"
+  slides: "https://drive.google.com/file/d/1xxlfNiAGVm2jqqhdTXYhIuhxDq7QszNK/view"
+  video: "https://drive.google.com/file/d/1zsnXlD6VBHCxLLMeYpaVH5T3A0e4uvaK/view?usp=sharing"
+ 
+"vu2021":
+  title: "σ-Ridge: group regularized ridge regression via empirical Bayes noise level cross-validation"
+  year: 2021
+  month: "April"
+  event: "Statistics seminar at Vrije Universiteit (VU) Amsterdam campus"
+  location: "Virtual"
+
+"JSM2021":
+  title: "Noise-Induced Randomization in Regression Discontinuity Designs"
+  year: 2021
+  month: "August"
+  event: "Causal Inference When Resources Are Limited at the Joint Statistical Meetings (JSM)"
+  location: "Virtual"
+  link: "https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317140"
+
+"CausalScience2021":
+  title: "Noise-Induced Randomization in Regression Discontinuity Designs"
+  year: 2021
+  month: "November"
+  event: "Causal Science Conference at Stanford University"
+  location: "Stanford, USA"
+  link: "https://datascience.stanford.edu/research/causal-science/causal-science-conference-2021"
+  slides: "https://drive.google.com/open?id=19zEucFphu_PBel3uDKGSmUCciBasZE9O"
+
+"Jamboree2021":
+  title: "Noise-Induced Randomization in Regression Discontinuity Designs"
+  year: 2021
+  month: "November"
+  event: "Fourth Annual Berkeley-Stanford Econometrics Jamboree at UC Berkeley"
+  location: "Berkeley, CA, USA"
+  link: "http://bryangraham.github.io/econometrics/econometrics/conferences/2021/10/12/Econometrics-Jamboree.html"
+
+"CM2021":
+  title: "Confidence Intervals for Nonparametric Empirical Bayes Analysis"
+  year: 2021
+  month: "December"
+  event: "Advances in Empirical Bayes Methodology at the International Conference on Computational and Methodological Statistics (CMStatistics)"
+  location: "Virtual"
+  link: "http://www.cmstatistics.org/RegistrationsV2/CMStatistics2021/viewSubmission.php?in=1705&token=3r0586n7sn44or38q44sr0o22opr119q"
+
+"UCDavisApril2022":
+  title: "Empirical Bayes Mean Estimation With Nonparametric Errors Via Order Statistic Regression on Replicated Data"
+  year: 2022
+  month: "April"
+  day: 28
+  link: "https://statistics.sf.ucdavis.edu/events/seminar-042822-ignatiadis"
+  event: "Statistics Seminar at the Department of Statistics, UC Davis"
+  location: "Davis, CA, USA"
+
+
+"ACIC2022":
+  title: "Noise-Induced Randomization in Regression Discontinuity Designs"
+  year: 2022
+  month: "May"
+  event: "Methodological innovations for challenges in health policy and clinical care at the 2022 American Causal Inference Conference"
+  location: "Berkeley, CA, USA"
+
+"EcoSta2022":
+  title: "Covariate-powered empirical Bayes estimation"
+  year: 2022
+  month: "June"
+  event: "New ideas in empirical Bayes at the 5th International Conference on Econometrics and Statistics (EcoSta 2022)"
+  location: "Virtual"
+  link: "http://www.cmstatistics.org/RegistrationsV2/EcoSta2022/viewSubmission.php?in=730&token=8q43qo8n4no2sp2115p55ps6o4401nq4"
+
+"SCGM2022":
+  title: "Noise-Induced Randomization in Regression Discontinuity Designs"
+  year: 2022
+  month: "July"
+  event: "Second Congress of Greek Mathematicians (SCGM)"
+  location: "Virtual"
+  link: "http://www.hms.gr/fcgm2022/scgm_programma_full.pdf"
+
+"JSM2022":
+  title: "Confidence Intervals for Nonparametric Empirical Bayes Analysis"
+  year: 2022
+  month: "June"
+  event: "JASA Theory and Methods Invited Session at the Joint Statistical Meetings (JSM)"
+  location: "Washington, DC, USA"
+  link: "https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320707"
+
+"Student2022":
+  title: "Covariate-Powered Empirical Bayes Estimation"
+  year: 2022
+  month: "September"
+  day: 28
+  event: "Seminar (student seminar series) at the Department of Statistics, Columbia University"
+  location: "New York, NY, USA"
+  link: "https://stat.columbia.edu/seminars/student-seminar-series/"
+
+"Opa2022":
+  title: "Confidence Intervals for Nonparametric Empirical Bayes Analysis"
+  year: 2022
+  day: 7
+  month: "October"
+  event: "Statistics department seminar at Athens University of Economics and Business (AUEB)"
+  location: "Virtual"
+  video: "https://www.youtube.com/watch?v=UV5zYX_xttM"
+  link: "https://www.dept.aueb.gr/en/stat/events/seminar-confidence-intervals-nonparametric-empirical-bayes-analysis"
+  slides: "https://www.dept.aueb.gr/sites/default/files/stat/seminars/2223/ignatiadis_wager_2022_aueb.pdf"
+
+"ColumbiaEconometrics2022":
+  title: "Noise-Induced Randomization in Regression Discontinuity Designs"
+  year: 2022
+  day: 9
+  month: "November"
+  event: "Econometrics Colloquium at the Economics Department, Columbia University"
+  location: "New York, NY, USA"
+
+
+"Yale2022":
+  title: "Confidence Intervals for Nonparametric Empirical Bayes Analysis"
+  year: 2022
+  day: 14
+  month: "November"
+  event: "Seminar at Department of Statistics and Data Science, Yale University"
+  location: "New Haven, CT, USA"
+  link: "https://statistics.yale.edu/seminars/nikolaos-ignatiadis"
+
+

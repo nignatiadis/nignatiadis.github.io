@@ -466,3 +466,13 @@ ol li span.year:before {
 ol li span.year:after {
     content: ")";
 }
+
+ul li span.title {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0; 
+    padding: 0;
+}

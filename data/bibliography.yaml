@@ -46,8 +46,9 @@
         - Stefan Wager
         - Nigam H. Shah 
     title: "Treatment Heterogeneity with Survival Outcomes"
-    journal: "Chapter in: Handbook of Matching and Weighting Adjustments for Causal Inference. CRC Press (forthcoming)"
+    journal: "Book chapter in: Handbook of Matching and Weighting Adjustments for Causal Inference. Edited by José R. Zubizaretta, Elizabeth A. Stuart, Dylan S. Small, and Paul R. Rosenbaum. Chapman & Hall / CRC Press"
     arXiv: "https://arxiv.org/abs/2207.07758"
+    book: "https://www.routledge.com/Handbook-of-Matching-and-Weighting-Adjustments-for-Causal-Inference/Zubizaretta-Stuart-Small-Rosenbaum/p/book/9780367609528"
     reproduction_code: "https://github.com/som-shahlab/survlearners"
     r_package: "https://github.com/som-shahlab/survlearners/tree/master/r-package/survlearners"
     year: 2022
