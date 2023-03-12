@@ -116,6 +116,115 @@
   location: "Virtual"
   link: "http://www.cmstatistics.org/RegistrationsV2/CMStatistics2021/viewSubmission.php?in=1705&token=3r0586n7sn44or38q44sr0o22opr119q"
 
+
+"NotreDame2021":
+  title: "Confidence Intervals for Nonparametric Empirical Bayes Analysis and an Application to the Regression Discontinuity Design"
+  year: 2021
+  day: 13
+  month: "December"
+  event: "ACMS Colloquium at Department of Applied and Computational Mathematics and Statistics,  University of Notre Dame"
+  location: "Notre Dame, Indiana, USA"
+  type: "J"
+  link: "https://acms.nd.edu/events/2021/12/13/acms-colloquium-nikolaos-ignatiadis-stanford-university/"
+
+
+"WaterlooJanuary2012":
+  title: "Confidence Intervals for Nonparametric Empirical Bayes Analysis and an Application to Regression Discontinuity Designs"
+  year: 2022
+  month: "January"
+  day: 13
+  type: "J"
+  link: "https://uwaterloo.ca/statistics-and-actuarial-science/events/department-seminar-nikolaos-ignatiadis"
+  event: "Seminar at the Department of Statistics and Actuarial Science, University of Waterloo"
+  location: "Virtual"
+
+
+
+"ColumbiaJanuary2012":
+  title: "Nonparametric Empirical Bayes Inference"
+  year: 2022
+  month: "January"
+  day: 14
+  type: "J"
+  link: "https://statistics.ucdavis.edu/events/seminar-011822-ignatiadis"
+  event: "Statistics Seminar at the Department of Statistics, Columbia University"
+  location: "Virtual"
+
+
+"UCDavisJanuary2022":
+  title: "Nonparametric Empirical Bayes Inference"
+  year: 2022
+  month: "January"
+  day: 18
+  type: "J"
+  link: "https://statistics.ucdavis.edu/events/seminar-011822-ignatiadis"
+  event: "Statistics Seminar at the Department of Statistics, UC Davis"
+  location: "Virtual"
+
+"UChicagoJanuary2022":
+  title: "Nonparametric Empirical Bayes Inference"
+  year: 2022
+  month: "January"
+  day: 31
+  type: "J"
+  link: "https://cs.uchicago.edu/events/event/nikolaos-ignatiadis-stanford-nonparametric-empirical-bayes-inference/"
+  event: "Seminar at the Data Science Institute, University of Chicago"
+  location: "Chicago, Illinois, USA"
+
+
+"UCLAJanuary2022":
+  title: "Confidence intervals for nonparametric empirical Bayes analysis and an application to regression discontinuity designs"
+  year: 2022
+  month: "January"
+  day: 25
+  type: "J"
+  link: "http://statistics.ucla.edu/events/past-seminars/2021-2022-acad-year/"
+  event: "Statistics Seminar at the Department of Statistics, UCLA"
+  location: "Virtual"
+
+"CMUFebruary2022":
+  title: "Nonparametric Empirical Bayes Inference"
+  year: 2022
+  month: "February"
+  day: 9
+  type: "J"
+  link: "https://www.cs.cmu.edu/calendar/157885888"
+  event: "Statistics and Data Science Seminar at the Department of Statistics and Data Science, Carnegie Mellon University"
+  location: "Virtual"
+
+
+"UBCFebruary2022":
+  title: "Nonparametric Empirical Bayes Inference"
+  year: 2022
+  month: "February"
+  day: 11
+  type: "J"
+  link: "https://www.stat.ubc.ca/nonparametric-empirical-bayes-inference"
+  event: "Statistics Seminar at the Department of Statistics, University of British Columbia"
+  location: "Virtual"
+
+"WhartonFebruary2022":
+  title: "Nonparametric Empirical Bayes Inference"
+  year: 2022
+  month: "February"
+  day: 21
+  type: "J"
+  link: "https://statistics.wharton.upenn.edu/research/seminars-conferences/previous-seminars/spring-2022/nonparametric-empirical-bayes-inference/"
+  event: "Statistics Seminar at the Department of Statistics and Data Science, Wharton School of the University of Pennsylvania"
+  location: "Virtual"
+
+"BocconiFebruary2022":
+  title: "Nonparametric Empirical Bayes Inference"
+  year: 2022
+  month: "February"
+  day: 28
+  type: "J"
+  link: "https://dec.unibocconi.eu/events/nonparametric-empirical-bayes-inference"
+  event: "Seminar at the Department of Decision Sciences, Bocconi University"
+  location: "Milano, Italy"
+
+
+
 "UCDavisApril2022":
   title: "Empirical Bayes Mean Estimation With Nonparametric Errors Via Order Statistic Regression on Replicated Data"
   year: 2022
