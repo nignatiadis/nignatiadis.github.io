@@ -1,8 +1,11 @@
 using YAML
+using Dates
 
 bibliography = YAML.load_file("data/bibliography.yaml")
 talks =  YAML.load_file("data/talks.yaml")
 talks_expanded = collect(talks)
+not_j = get.(last.(talks_expanded),"type", "nj") .== "nj"
+talks_expanded = talks_expanded[not_j]
 talk_names = first.(talks_expanded)
 talk_dates = map(x-> Date("$(x["year"])-$(x["month"])", "y-U"), last.(talks_expanded))
 _order = sortperm(talk_dates; rev=true)

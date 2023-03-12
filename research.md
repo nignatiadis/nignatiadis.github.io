@@ -10,6 +10,7 @@
 
 
 @def ebayes_papers = [
+    "IgnatiadisSen2023";
     "IgnatiadisWager2022";
     "IgnatiadisSahaSunMuralidharan2021";
     "IgnatiadisLolas2021";
