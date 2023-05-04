@@ -80,7 +80,7 @@
   title: "σ-Ridge: group regularized ridge regression via empirical Bayes noise level cross-validation"
   year: 2021
   month: "April"
-  event: "Statistics seminar at Vrije Universiteit (VU) Amsterdam campus"
+  event: "Statistics Seminar at Vrije Universiteit (VU) Amsterdam campus"
   location: "Virtual"
 
 "JSM2021":
@@ -280,7 +280,7 @@
   year: 2022
   day: 7
   month: "October"
-  event: "Statistics department seminar at Athens University of Economics and Business (AUEB)"
+  event: "Statistics Department Seminar at Athens University of Economics and Business (AUEB)"
   location: "Virtual"
   video: "https://www.youtube.com/watch?v=UV5zYX_xttM"
   link: "https://www.dept.aueb.gr/en/stat/events/seminar-confidence-intervals-nonparametric-empirical-bayes-analysis"
@@ -303,5 +303,14 @@
   event: "Seminar at Department of Statistics and Data Science, Yale University"
   location: "New Haven, CT, USA"
   link: "https://statistics.yale.edu/seminars/nikolaos-ignatiadis"
+
+"BerkeleyColumbia2023":
+  title: "Empirical partially Bayes multiple testing and compound χ² decisions"
+  year: 2023
+  day: 20
+  month: "April"
+  event: "2023 Berkeley–Columbia Meeting in Engineering and Statistics, Columbia University"
+  location: "New York, NY, USA"
+  link: "https://sites.google.com/view/berkeleycolumbia23"
 
 

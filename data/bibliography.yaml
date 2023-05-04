@@ -4,7 +4,8 @@
         - Wolfgang Huber
     title: "Covariate powered cross-weighted multiple testing"
     year: 2021
-    journal: "Journal of the Royal Statistical Society: Series B (JRSS-B)"
+    type: "Journal"
+    journal: "Journal of the Royal Statistical Society: Series B (JRSS-B), 83(4), 720-751"
     openaccess: "https://doi.org/10.1111/rssb.12411"
     arXiv: "https://arxiv.org/abs/1701.05179"
     reproduction_code: "https://github.com/Huber-group-EMBL/covariate-powered-cross-weighted-multiple-testing"
@@ -17,7 +18,8 @@
         - Judith Zaugg
         - Wolfgang Huber
     title: "Data-driven hypothesis weighting increases detection power in genome-scale multiple testing"
-    journal: "Nature methods, 13(7), 577"
+    type: "Journal"
+    journal: "Nature methods, 13(7), 577-580"
     closedaccess: "https://www.nature.com/articles/nmeth.3885"
     reproduction_code: "http://bioconductor.org/packages/devel/data/experiment/html/IHWpaper.html"
     r_package: "http://bioconductor.org/packages/IHW"
@@ -30,6 +32,7 @@
         - Stefan Wager
         - Han Wu
     title: "Noise-Induced Randomization in Regression Discontinuity Designs"
+    type: "Preprint"
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2004.09458"
     reproduction_code: "https://github.com/nignatiadis/noise-induced-randomization-paper"
@@ -46,18 +49,20 @@
         - Stefan Wager
         - Nigam H. Shah 
     title: "Treatment Heterogeneity with Survival Outcomes"
-    journal: "Book chapter in: Handbook of Matching and Weighting Adjustments for Causal Inference. Edited by José R. Zubizaretta, Elizabeth A. Stuart, Dylan S. Small, and Paul R. Rosenbaum. Chapman & Hall / CRC Press"
+    type: "Book chapter"
+    journal: "Book chapter in: Handbook of Matching and Weighting Adjustments for Causal Inference. Edited by José R. Zubizaretta, Elizabeth A. Stuart, Dylan S. Small, and Paul R. Rosenbaum. Chapman and Hall / CRC Press"
     arXiv: "https://arxiv.org/abs/2207.07758"
     book: "https://www.routledge.com/Handbook-of-Matching-and-Weighting-Adjustments-for-Causal-Inference/Zubizaretta-Stuart-Small-Rosenbaum/p/book/9780367609528"
     reproduction_code: "https://github.com/som-shahlab/survlearners"
     r_package: "https://github.com/som-shahlab/survlearners/tree/master/r-package/survlearners"
-    year: 2022
+    year: 2023
 
 "IgnatiadisWager2019":
     author:
         - Nikolaos Ignatiadis
         - Stefan Wager
     title: "Covariate-Powered Empirical Bayes Estimation"
+    type: "Conference"
     journal: "Advances in Neural Information Processing Systems 32 (NeurIPS 2019)"
     conference: "https://papers.nips.cc/paper/9157-covariate-powered-empirical-bayes-estimation"
     arXiv: "https://arxiv.org/abs/1906.01611"
@@ -72,6 +77,7 @@
         - Nikolaos Ignatiadis
         - Panagiotis Lolas
     title: "σ-Ridge: group-regularized ridge regression via empirical Bayes noise level cross-validation"
+    type: "Preprint"
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2010.15817"
     reproduction_code: "https://github.com/nignatiadis/SigmaRidgeRegression.jl/tree/master/reproduction_code"
@@ -98,7 +104,7 @@
         - Nikolaos Ignatiadis
         - Stefan Wager
     title: "Confidence Intervals for Nonparametric Empirical Bayes Analysis"
-    journal: "Journal of the American Statistical Association, Theory and Methods"
+    journal: "Journal of the American Statistical Association, Theory and Methods, 117(539), 1149-1166"
     pages: "1149-1166"
     volume: "117"
     issue: "539"
@@ -119,6 +125,13 @@
      <b> Rejoinder:</b>
      <a href=https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2093729>N.I. & Stefan Wager.</a>"
 
+"IgnatiadisWager2022Rejoinder":
+    author:
+        - Nikolaos Ignatiadis
+        - Stefan Wager
+    title: "Rejoinder: Confidence Intervals for Nonparametric Empirical Bayes Analysis"
+    journal: "Journal of the American Statistical Association, Theory and Methods, 117(539), 1192-1199"
+    year: 2022
 
 "Karacosta2021":
     author:
@@ -132,6 +145,7 @@
         - Sean Bendall
         - Sylvia K. Plevritis
     title: "Mapping lung cancer epithelial-mesenchymal transition states and trajectories with single-cell resolution"
+    type: "Journal"
     journal: "Nature communications, 10, 5887"
     openaccess: "https://www.nature.com/articles/s41467-019-13441-6"
     biorXiv: "https://www.biorxiv.org/content/10.1101/570341v1"
@@ -165,6 +179,7 @@
         - Roland Eils
         - Barbara Di Ventura
     title: "Creating functional engineered variants of the single-module non-ribosomal peptide synthetase IndC by T domain exchange"
+    type: "Journal"
     journal: "Molecular BioSystems, 10(7), 1709-1718"
     closedaccess: "https://doi.org/10.1039/C3MB70594C"
     year: 2014
@@ -179,6 +194,7 @@
         - Julian Genkins
         - Nigam H. Shah
     title: "Net benefit, calibration, threshold selection, and training objectives for algorithmic fairness in healthcare"
+    type: "Conference"
     journal: "ACM Conference on Fairness, Accountability, and Transparency (FAccT'22)"
     conference: "https://dl.acm.org/doi/10.1145/3531146.3533166"
     arXiv: "https://arxiv.org/abs/2202.01906"
@@ -191,6 +207,7 @@
         - Ruodu Wang
         - Aaditya Ramdas
     title: "E-values as unnormalized weights in multiple testing"
+    type: "Preprint"
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2204.12447"
     reproduction_code: "https://github.com/nignatiadis/evalues-as-weights-paper"
@@ -202,6 +219,7 @@
         - Nikolaos Ignatiadis
         - Bodhisattva Sen
     title: "Empirical partially Bayes multiple testing and compound χ² decisions"
+    type: "Preprint"
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2303.02887"
     reproduction_code: "https://github.com/nignatiadis/empirical-partially-bayes-paper"

@@ -1,5 +1,19 @@
 @def title = "Teaching"
 
+## Lecture Notes
+
+* **Lecture notes on empirical Bayes.** These are available [here](/assets/lecture_notes/Statistics-GR8201-Spring-2023.pdf).
+These lecture notes accompanied the course GR8201, “Topics in Theoretical Statistics: Empirical Bayes” that was taught at the Department of Statistics, Columbia University in Spring 2023 together with [Bodhisattva Sen](http://www.stat.columbia.edu/~bodhi/Bodhi/Welcome.html).
+These lecture notes are preliminary (not polished/carefully proofread at this point) and we would welcome any feedback on them!
+
+
+## Courses as Instructor at Columbia Statistics
+
+| Semester        | Course              |   Course Title                                                        | 
+| --------------- | ------------------- | --------------------------------------------------------------------- | 
+| Spring 2023     | Statistics GR8201   | Topics in Theoretical Statistics: Empirical Bayes                     | 
+
+ 
 ## Courses as Instructor at Stanford Statistics
 
 | Quarter         | Course              |   Course Title                                                        | 
