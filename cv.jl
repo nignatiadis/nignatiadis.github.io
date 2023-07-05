@@ -87,11 +87,11 @@ latex = L"""
 \begin{resume}
 \section{\sc Contact Details}
 \vspace{.05in}
-\begin{tabular}{@{}p{2in}p{4in}}
-Columbia University             & {Telephone:}  +1 (650) 656-0855 \\
-Department of Statistics   & {E-mail:}    ignat@stanford.edu \\
-1255 Amsterdam Ave, &  {Website:} \href{https://nignatiadis.github.io/}{https://nignatiadis.github.io/}\\
-New York, NY 10027, USA  & {Google Scholar:} \href{https://scholar.google.com/citations?user=KH3jpkoAAAAJ}{user=KH3jpkoAAAAJ} \\
+\begin{tabular}{@{}p{3.2in}p{4in}}
+University of Chicago            & {Telephone:}  +1 (650) 656-0855 \\
+Department of Statistics \& Data Science Institute  & {E-mail:}    ignat@uchicago.edu \\
+5735 S Ellis Ave &  {Website:} \href{https://nignatiadis.github.io/}{https://nignatiadis.github.io/}\\
+Chicago, IL 10027, 60637  & {Google Scholar:} \href{https://scholar.google.com/citations?user=KH3jpkoAAAAJ}{user=KH3jpkoAAAAJ} \\
 \end{tabular}
 
 
@@ -161,9 +161,9 @@ latex = L"""
 \begin{list1}
 """
 
-journal_keys = ["IgnatiadisWager2022Rejoinder",
+journal_keys = ["IgnatiadisSahaSunMuralidharan2021",
+                "IgnatiadisWager2022Rejoinder",
                 "IgnatiadisWager2022",
-                "IgnatiadisSahaSunMuralidharan2021",
                 "IgnatiadisHuber2021",
                 "Karacosta2021",
                 "IgnatiadisKlausZauggHuber2016",

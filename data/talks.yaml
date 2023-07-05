@@ -82,6 +82,7 @@
   month: "April"
   event: "Statistics Seminar at Vrije Universiteit (VU) Amsterdam campus"
   location: "Virtual"
+  link: "http://www.few.vu.nl/~wvanwie/seminar/StatSeminar.html"
 
 "JSM2021":
   title: "Noise-Induced Randomization in Regression Discontinuity Designs"
@@ -146,7 +147,6 @@
   month: "January"
   day: 14
   type: "J"
-  link: "https://statistics.ucdavis.edu/events/seminar-011822-ignatiadis"
   event: "Statistics Seminar at the Department of Statistics, Columbia University"
   location: "Virtual"
 
