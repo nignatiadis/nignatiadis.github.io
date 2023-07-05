@@ -91,12 +91,12 @@
         - Dennis L. Sun
         - Omkar Muralidharan
     title: "Empirical Bayes mean estimation with nonparametric errors via order statistic regression on replicated data"
-    journal: "Journal of the American Statistical Association, Theory and Methods (forthcoming)"
+    journal: "Journal of the American Statistical Association, Theory and Methods, 118(542), 987-999"
     openaccess: "https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1967164"
     arXiv: "https://arxiv.org/abs/1911.05970"
     reproduction_code: "https://github.com/nignatiadis/AuroraPaper"
     julia_package: "https://github.com/nignatiadis/Aurora.jl"
-    year: 2021
+    year: 2023
 
 
 "IgnatiadisWager2022":
