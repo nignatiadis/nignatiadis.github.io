@@ -201,17 +201,18 @@
     reproduction_code: "https://github.com/som-shahlab/net_benefit_ascvd"
     year: 2022
 
-"IgnatiadisWangRamdas2022":
+"IgnatiadisWangRamdas2023":
     author:
         - Nikolaos Ignatiadis
         - Ruodu Wang
         - Aaditya Ramdas
     title: "E-values as unnormalized weights in multiple testing"
-    type: "Preprint"
-    journal: "Working paper"
+    type: "Journal"
+    journal: "Biometrika (forthcoming)"
+    closedaccess: "https://doi.org/10.1093/biomet/asad057"
     arXiv: "https://arxiv.org/abs/2204.12447"
     reproduction_code: "https://github.com/nignatiadis/evalues-as-weights-paper"
-    year: 2022
+    year: 2023
 
 
 "IgnatiadisSen2023":
@@ -224,3 +225,19 @@
     arXiv: "https://arxiv.org/abs/2303.02887"
     reproduction_code: "https://github.com/nignatiadis/empirical-partially-bayes-paper"
     year: 2023
+
+"Steinberg2023":
+    author:
+        - Ethan Steinberg
+        - Nikolaos Ignatiadis
+        - Steve Yadlowsky
+        - Yizhe Xu
+        - Nigam H. Shah 
+    title: "Using public clinical trial reports to probe non-experimental causal inference methods"
+    type: "Journal"
+    journal: "BMC Medical Research Methodology, 23, 204"
+    openaccess: "https://doi.org/10.1186/s12874-023-02025-0"
+    reproduction_code: "https://github.com/som-shahlab/TrialProbe"
+    year: 2023
+
+

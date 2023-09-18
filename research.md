@@ -22,7 +22,7 @@
 ### Statistical methodology: Multiple testing
 
 @def multiple_testing_papers = [
-    "IgnatiadisWangRamdas2022";
+    "IgnatiadisWangRamdas2023";
     "IgnatiadisHuber2021"; 
     "IgnatiadisKlausZauggHuber2016"]
 
@@ -38,7 +38,7 @@
 
 ### Applied Collaborations
 
-@def applied_papers = ["Pfohl2022"; "Karacosta2021"; "Beer2014"]
+@def applied_papers = ["Steinberg2023"; "Pfohl2022"; "Karacosta2021"; "Beer2014"]
 
 {{ bibliographyprint applied_papers }}
 

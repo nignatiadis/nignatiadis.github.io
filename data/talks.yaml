@@ -314,3 +314,22 @@
   link: "https://sites.google.com/view/berkeleycolumbia23"
 
 
+"JSM2023":
+  title: "Noise-Induced Randomization in Regression Discontinuity Designs"
+  year: 2023
+  day: 8
+  month: "August"
+  event: "New Methodological Developments for Regression Discontinuity Designs at the Joint Statistical Meetings (JSM)"
+  location: "Toronto, Canada"
+  link: "https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1941"
+
+
+"Duke2023":
+  title: "Empirical partially Bayes multiple testing and compound χ² decisions"
+  year: 2023
+  day: 8
+  month: "September"
+  event: "Seminar at Department of Statistical Science, Duke University"
+  location: "Durham, NC, USA"
+  link: "https://stat.duke.edu/events/empirical-partially-bayes-multiple-testing-and-compound-h2-decisions"
+

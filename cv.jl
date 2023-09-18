@@ -161,7 +161,9 @@ latex = L"""
 \begin{list1}
 """
 
-journal_keys = ["IgnatiadisSahaSunMuralidharan2021",
+journal_keys = ["IgnatiadisWangRamdas2023",
+                "Steinberg2023",
+                "IgnatiadisSahaSunMuralidharan2021",
                 "IgnatiadisWager2022Rejoinder",
                 "IgnatiadisWager2022",
                 "IgnatiadisHuber2021",
@@ -245,7 +247,6 @@ latex = L"""
 """
 
 preprint_keys = ["IgnatiadisSen2023",
-    "IgnatiadisWangRamdas2022",
     "Eckles2022",
     "IgnatiadisLolas2021"
     ]
