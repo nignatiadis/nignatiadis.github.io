@@ -7,6 +7,15 @@ These lecture notes accompanied the course GR8201, “Topics in Theoretical Stat
 These lecture notes are preliminary (not polished/carefully proofread at this point) and we would welcome any feedback on them!
 
 
+## Courses as Instructor at UChicago Statistics
+
+| Semester        | Course              |   Course Title                                                        | 
+| --------------- | ------------------- | --------------------------------------------------------------------- | 
+| Autumn 2023     | STAT 34300   | Applied Linear Statistical Methods | 
+| Winter 2024     | STAT 41551   | Empirical Bayes                    |
+
+     
+
 ## Courses as Instructor at Columbia Statistics
 
 | Semester        | Course              |   Course Title                                                        | 

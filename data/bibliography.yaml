@@ -241,3 +241,14 @@
     year: 2023
 
 
+"XiangIgnatiadisMcCullagh2024":
+    author:
+        - Daniel Xiang
+        - Nikolaos Ignatiadis
+        - Peter McCullagh
+    title: "Interpretation of local false discovery rates under the zero assumption"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2402.08792"
+    reproduction_code: "https://github.com/nignatiadis/local-fdr-interpretation-paper"
+    year: 2024
