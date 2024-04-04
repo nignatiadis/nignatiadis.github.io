@@ -91,7 +91,7 @@ latex = L"""
 University of Chicago            & {Telephone:}  +1 (650) 656-0855 \\
 Department of Statistics \& Data Science Institute  & {E-mail:}    ignat@uchicago.edu \\
 5735 S Ellis Ave &  {Website:} \href{https://nignatiadis.github.io/}{https://nignatiadis.github.io/}\\
-Chicago, IL 10027, 60637  & {Google Scholar:} \href{https://scholar.google.com/citations?user=KH3jpkoAAAAJ}{user=KH3jpkoAAAAJ} \\
+Chicago, IL, 60637  & {Google Scholar:} \href{https://scholar.google.com/citations?user=KH3jpkoAAAAJ}{user=KH3jpkoAAAAJ} \\
 \end{tabular}
 
 
@@ -103,7 +103,7 @@ I am interested in the development of interpretable statistical methods, accompa
 {\bf Department of Statistics and Data Science Institute, University of Chicago} \hfill Chicago, USA\\
 \vspace*{-.14in}
 \begin{list2}
-\item Assistant Professor \hfill Beginning 07/2023
+\item Assistant Professor \hfill  07/2023 - present
 \end{list2}
 
 {\bf Department of Statistics, Columbia University} \hfill New York, USA\\
@@ -246,7 +246,8 @@ latex = L"""
 \begin{list1}
 """
 
-preprint_keys = ["IgnatiadisSen2023",
+preprint_keys = ["XiangIgnatiadisMcCullagh2024",
+    "IgnatiadisSen2023",
     "Eckles2022",
     "IgnatiadisLolas2021"
     ]
@@ -294,6 +295,7 @@ Journal of Causal Inference (JCI),
 Journal of Computational and Graphical Statistics (JCGS),
 Journal of the Royal Statistical Society--Series B (JRSS-B),
 Journal of Statistical Software (JSS),
+Sankhy\=a A,
 Statistical Papers,
 Statistical Science
 
@@ -314,6 +316,10 @@ PeerJ
 AISTATS (2021),
 NeurIPS (2021, 2022),
 ICLR (2022)
+
+\section{\sc Other academic service}
+\textbf{Co-organizer: International Seminar on Selective Inference}  \hfill 2024 - present\\
+with Will Fithian, Jelle Goeman, Lihua Lei, and Zhimei Ren.
 
 \section{\sc Software}
 {\bf R packages} in Bioconductor:
@@ -348,6 +354,12 @@ Research assistant in the group of Dr. Wolfgang Huber.
 
 
 \section{\sc Teaching}
+\textbf{Instructor} at University of Chicago\\
+STAT 41551: Empirical Bayes. \hfill Winter 2024\\
+STAT 34300: Applied Linear Statistical Methods. \hfill Autumn 2023
+
+\ver
+
 \textbf{Instructor} at Columbia University\\
 GR8201: Topics in Theoretical Statistics, Empirical Bayes (jointly with Bodhisattva Sen) \hfill Spring 2023
 

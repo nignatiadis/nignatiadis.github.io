@@ -333,3 +333,22 @@
   location: "Durham, NC, USA"
   link: "https://stat.duke.edu/events/empirical-partially-bayes-multiple-testing-and-compound-h2-decisions"
 
+"KU2023":
+  title: "Empirical Bayes mean estimation with nonparametric errors via order statistic regression on replicated data"
+  event: "Seminar at the School of Business, University of Kansas"
+  year: 2023
+  day: 13
+  month: "October"
+  location: "Lawrence, KS, USA"
+  link: "https://business.ku.edu/graduate-programs/phd/programs-and-research/previous-colloquia-speakers"
+
+"Hangzhou2023":
+  title: "Empirical partially Bayes multiple testing and compound χ² decisions"
+  year: 2023
+  month: "December"
+  day: 12
+  event: "BIRS-IASM Workshop: Harnessing the power of latent structure models and modern big data learning "
+  location: "Hangzhou, China"
+  link: "https://www.birs.ca/events/2023/5-day-workshops/23w5009"
+  video: "https://www.birs.ca/events/2023/5-day-workshops/23w5009/videos/watch/202312121100-Ignatiadis.html"
+ 
