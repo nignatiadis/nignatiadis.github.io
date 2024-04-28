@@ -279,7 +279,6 @@ Discussant of the talk `Clipper: p-value-free FDR control on high-throughput dat
 by Prof. Jingyi Jessica Li.
 
 
-
 \section{\sc Peer Review}
 
 \textbf{Statistics journals}\\
@@ -318,6 +317,10 @@ NeurIPS (2021, 2022),
 ICLR (2022)
 
 \section{\sc Other academic service}
+\textbf{Associate editor: Biometrika}\hfill April 2024 - present
+
+\ver
+
 \textbf{Co-organizer: International Seminar on Selective Inference}  \hfill 2024 - present\\
 with Will Fithian, Jelle Goeman, Lihua Lei, and Zhimei Ren.
 
