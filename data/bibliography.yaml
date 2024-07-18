@@ -208,11 +208,11 @@
         - Aaditya Ramdas
     title: "E-values as unnormalized weights in multiple testing"
     type: "Journal"
-    journal: "Biometrika (forthcoming)"
+    journal: "Biometrika,  111(2), 417–439"
     closedaccess: "https://doi.org/10.1093/biomet/asad057"
     arXiv: "https://arxiv.org/abs/2204.12447"
     reproduction_code: "https://github.com/nignatiadis/evalues-as-weights-paper"
-    year: 2023
+    year: 2024
 
 
 "IgnatiadisSen2023":

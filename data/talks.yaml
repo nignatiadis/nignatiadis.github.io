@@ -352,3 +352,55 @@
   link: "https://www.birs.ca/events/2023/5-day-workshops/23w5009"
   video: "https://www.birs.ca/events/2023/5-day-workshops/23w5009/videos/watch/202312121100-Ignatiadis.html"
  
+"McMaster2024":
+  title: "Empirical partially Bayes multiple testing and compound χ² decisions"
+  year: 2024
+  month: "February"
+  day: 13 
+  event: "Statistics seminar at the Department of Mathematics and Statistics, McMaster University"
+  location: "Virtual"
+
+"StLouis2024":
+  title: "Empirical partially Bayes multiple testing and compound χ² decisions"
+  year: 2024
+  month: "April"
+  day: 6
+  link: "http://xuminghe.com/program2024.pdf"
+  event: "Workshop on Translational Research on Data Heterogeneity at Washington University in St. Louis"
+  location: "St. Louis, MO, USA"
+
+
+"Heidelberg2024":
+  title: "Empirical partially Bayes multiple testing and compound χ² decisions"
+  year: 2024
+  month: "May"
+  day: 2
+  event: "Statistics group seminar at the Institute for Mathematics, Heidelberg University "
+  location: "Heidelberg, Germany"
+
+"Blue2024":
+  title: "Data-driven learning of prior distributions: Opportunities (and pitfalls)"
+  year: 2024
+  month: "May"
+  day: 3
+  event: "Blue Seminar at the European Molecular Biology Laboratory (EMBL)"
+  location: "Heidelberg, Germany"
+
+"Oberwolfach2024":
+  title: "E-values as unnormalized weights in multiple testing"
+  year: 2024
+  month: "May"
+  day: 7
+  event: "Oberwolfach workshop on Game-theoretic Statistical Inference: Optional Sampling,
+Universal Inference, and Multiple Testing Based on E-values"
+  location: "Oberwolfach, Germany"
+
+"ISNPS2024":
+  title: "Empirical partially Bayes multiple testing and compound χ² decisions"
+  year: 2024
+  month: "June"
+  day: 26
+  event: "Large scale semi-parametric inference at the International Symposium on Nonparametric Statistics (ISNPS)"
+  link: "https://w3.math.uminho.pt/ISNPS2024/img/ISNPS_2024_SimpleProgram.pdf"
+  location: "Braga, Portugal"
+
