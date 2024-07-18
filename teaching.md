@@ -2,17 +2,17 @@
 
 ## Lecture Notes
 
-* **Lecture notes on empirical Bayes.** These are available [here](/assets/lecture_notes/Statistics-GR8201-Spring-2023.pdf).
-These lecture notes accompanied the course GR8201, “Topics in Theoretical Statistics: Empirical Bayes” that was taught at the Department of Statistics, Columbia University in Spring 2023 together with [Bodhisattva Sen](http://www.stat.columbia.edu/~bodhi/Bodhi/Welcome.html).
-These lecture notes are preliminary (not polished/carefully proofread at this point) and we would welcome any feedback on them!
+* **Lecture notes on empirical Bayes.** These are available [here](/assets/lecture_notes/Empirical-Bayes.pdf).
+
+These lecture notes were developed while teaching the courses STAT 41551 ("Empirical Bayes") at UChicago in Winter 2024, and GR8201 (“Topics in Theoretical Statistics: Empirical Bayes”) at Columbia University in Spring 2023 together with [Bodhisattva Sen](http://www.stat.columbia.edu/~bodhi/Bodhi/Welcome.html). These lecture notes are preliminary and we welcome any feedback on them!
 
 
 ## Courses as Instructor at UChicago Statistics
 
 | Semester        | Course              |   Course Title                                                        | 
 | --------------- | ------------------- | --------------------------------------------------------------------- | 
-| Autumn 2023     | STAT 34300   | Applied Linear Statistical Methods | 
 | Winter 2024     | STAT 41551   | Empirical Bayes                    |
+| Autumn 2023     | STAT 34300   | Applied Linear Statistical Methods | 
 
      
 
