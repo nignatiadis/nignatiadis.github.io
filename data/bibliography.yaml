@@ -220,11 +220,11 @@
         - Nikolaos Ignatiadis
         - Bodhisattva Sen
     title: "Empirical partially Bayes multiple testing and compound χ² decisions"
-    type: "Preprint"
-    journal: "Working paper"
+    type: "Journal"
+    journal: "Annals of Statistics (accepted)"
     arXiv: "https://arxiv.org/abs/2303.02887"
     reproduction_code: "https://github.com/nignatiadis/empirical-partially-bayes-paper"
-    year: 2023
+    year: 2024
 
 "Steinberg2023":
     author:
