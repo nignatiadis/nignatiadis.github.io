@@ -252,3 +252,17 @@
     arXiv: "https://arxiv.org/abs/2402.08792"
     reproduction_code: "https://github.com/nignatiadis/local-fdr-interpretation-paper"
     year: 2024
+
+
+"Yang2024":
+    author:
+        - Yefeng Yang
+        - Erik van Zwet
+        - Nikolaos Ignatiadis
+        - Shinichi Nakagawa
+    title: "A large-scale in silico replication of ecological and evolutionary studies"
+    type: "Journal"
+    journal: "Nature ecology & evolution"
+    openaccess: "https://www.nature.com/articles/s41559-024-02530-5"
+    reproduction_code: "https://github.com/Yefeng0920/replication_EcoEvo_git"
+    year: 2024
