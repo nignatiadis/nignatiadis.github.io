@@ -39,7 +39,12 @@
 
 ### Applied Collaborations
 
-@def applied_papers = ["Steinberg2023"; "Pfohl2022"; "Karacosta2021"; "Beer2014"]
+@def applied_papers = [
+    "Yang2024";
+    "Steinberg2023";
+    "Pfohl2022"; 
+    "Karacosta2021"; 
+    "Beer2014"]
 
 {{ bibliographyprint applied_papers }}
 
