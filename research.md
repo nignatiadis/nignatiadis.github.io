@@ -22,6 +22,7 @@
 ### Statistical methodology: Multiple testing
 
 @def multiple_testing_papers = [
+    "IgnatiadisWangRamdas2024compound";
     "XiangIgnatiadisMcCullagh2024";
     "IgnatiadisWangRamdas2023";
     "IgnatiadisHuber2021"; 
