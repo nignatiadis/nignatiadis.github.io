@@ -266,3 +266,15 @@
     openaccess: "https://www.nature.com/articles/s41559-024-02530-5"
     reproduction_code: "https://github.com/Yefeng0920/replication_EcoEvo_git"
     year: 2024
+
+
+"IgnatiadisWangRamdas2024compound":
+    author:
+        - Nikolaos Ignatiadis
+        - Ruodu Wang
+        - Aaditya Ramdas
+    title: "Compound e-values and empirical Bayes"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2409.19812"
+    year: 2024
