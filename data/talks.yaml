@@ -414,3 +414,21 @@ Universal Inference, and Multiple Testing Based on E-values"
  at the Joint Statistical Meetings (JSM)"
   location: "Portland, OR, USA"
   link: "https://ww3.aievolution.com/JSMAnnual2024/Events/viewEv?ev=1180"
+
+"ISSI2024":
+  title: "Empirical partially Bayes multiple testing and compound χ² decisions"
+  year: 2024
+  month: "October"
+  day: 28
+  event: "International Seminar on Selective Inference (ISSI)"
+  location: "Virtual"
+  video: "https://drive.google.com/file/d/1TDXKzqOipNLC_uy5zi9xkze87hJm29Mm/view?usp=sharing"
+ 
+"ICSDS2024":
+  title: "Empirical Bayes estimation and score matching"
+  year: 2024
+  month: "December"
+  day: 18
+  event:  "Empirical Bayes at the IMS International Conference on Statistics and Data Science (ICSDS)"
+  location: "Nice, France"
+  link: "https://sites.google.com/view/ims-icsds2024/home?authuser=0"

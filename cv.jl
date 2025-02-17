@@ -304,17 +304,28 @@ Statistical Science
 Bioinformatics,
 Bioinformatics Advances,
 BMC Medical Research Methodology,
+Econometrica,
 Journal of Cell Science,
+Journal of Political Economy Microeconomics (JPE Micro),
 Management Science,
 Nature Protocols,
 Operations Research,
-PeerJ
+PeerJ,
+SIAM/ASA Journal on Uncertainty Quantification (JUQ)
 
 \ver
 \textbf{Conferences}\\
 AISTATS (2021),
 NeurIPS (2021, 2022),
 ICLR (2022)
+
+\ver
+\textbf{Grants}\\
+Israel Science Foundation (ISF, 2024)
+
+\ver
+\textbf{Monographs}\\
+Econometric Society Monographs (Cambridge University Press)
 
 \section{\sc Other academic service}
 \textbf{Associate editor: Biometrika}\hfill April 2024 - present
