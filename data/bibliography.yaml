@@ -221,10 +221,11 @@
         - Bodhisattva Sen
     title: "Empirical partially Bayes multiple testing and compound χ² decisions"
     type: "Journal"
-    journal: "Annals of Statistics (accepted)"
+    journal: "Annals of Statistics, 53(1): 1-36"
+    closedaccess: "https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-1/Empirical-partially-Bayes-multiple-testing-and-compound-%cf%872-decisions/10.1214/24-AOS2431.full"
     arXiv: "https://arxiv.org/abs/2303.02887"
     reproduction_code: "https://github.com/nignatiadis/empirical-partially-bayes-paper"
-    year: 2024
+    year: 2025
 
 "Steinberg2023":
     author:
@@ -262,7 +263,7 @@
         - Shinichi Nakagawa
     title: "A large-scale in silico replication of ecological and evolutionary studies"
     type: "Journal"
-    journal: "Nature ecology & evolution"
+    journal: "Nature ecology & evolution, 8, 2179–2183"
     openaccess: "https://www.nature.com/articles/s41559-024-02530-5"
     reproduction_code: "https://github.com/Yefeng0920/replication_EcoEvo_git"
     year: 2024
@@ -273,8 +274,21 @@
         - Nikolaos Ignatiadis
         - Ruodu Wang
         - Aaditya Ramdas
-    title: "Compound e-values and empirical Bayes"
+    title: "Asymptotic and compound e-values: multiple testing and empirical Bayes"
     type: "Preprint"
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2409.19812"
+    year: 2025
+
+
+"IgnatiadisSun2024fission":
+    author:
+        - Nikolaos Ignatiadis
+        - Dennis L. Sun
+    title: "Empirical Bayes estimation via data fission"
+    type: "Journal"
+    note: "Comment on \"Data Fission: Splitting a Single Data Point,\" by James Leiner, Boyan Duan, Larry Wasserman, and Aaditya Ramdas."
+    journal: "Journal of the American Statistical Association, Theory and Method (accepted)"
+    reproduction_code: "https://github.com/nignatiadis/empirical-bayes-data-fission-comment"
+    arXiv: "https://arxiv.org/abs/2410.12117"
     year: 2024
