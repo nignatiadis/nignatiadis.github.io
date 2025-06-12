@@ -253,7 +253,7 @@
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2402.08792"
     reproduction_code: "https://github.com/nignatiadis/local-fdr-interpretation-paper"
-    year: 2024
+    year: 2025
 
 
 "Yang2024":
@@ -264,7 +264,7 @@
         - Shinichi Nakagawa
     title: "A large-scale in silico replication of ecological and evolutionary studies"
     type: "Journal"
-    journal: "Nature ecology & evolution, 8, 2179–2183"
+    journal: "Nature ecology and evolution, 8, 2179–2183"
     openaccess: "https://www.nature.com/articles/s41559-024-02530-5"
     reproduction_code: "https://github.com/Yefeng0920/replication_EcoEvo_git"
     year: 2024
@@ -289,10 +289,11 @@
     title: "Empirical Bayes estimation via data fission"
     type: "Journal"
     note: "Comment on \"Data Fission: Splitting a Single Data Point,\" by James Leiner, Boyan Duan, Larry Wasserman, and Aaditya Ramdas."
-    journal: "Journal of the American Statistical Association, Theory and Method (accepted)"
+    journal: "Journal of the American Statistical Association, Theory and Methods, 120(549), 165–166"
     reproduction_code: "https://github.com/nignatiadis/empirical-bayes-data-fission-comment"
+    closedaccess: "https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2421994"
     arXiv: "https://arxiv.org/abs/2410.12117"
-    year: 2024
+    year: 2025
 
 
 "LiIgnatiadis2025":
@@ -300,8 +301,8 @@
         - Sida Li
         - Nikolaos Ignatiadis
     title: "Prediction-Powered Adaptive Shrinkage Estimation"
-    type: "Preprint"
-    journal: "Working paper"
+    type: "Journal"
+    journal: "42nd International Conference on Machine Learning (ICML 2025; accepted)"
     arXiv: "https://arxiv.org/abs/2502.14166"
     reproduction_code: "https://github.com/listar2000/prediction-powered-adaptive-shrinkage"
     year: 2025
@@ -316,4 +317,15 @@
     type: "Preprint"
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2502.20123"
+    year: 2025
+
+"JaffeIgnatiadisSen2025":
+    author:
+        - Adam Quinn Jaffe
+        - Nikolaos Ignatiadis
+        - Bodhisattva Sen
+    title: "Constrained Denoising, Empirical Bayes, and Optimal Transport"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2506.09986"
     year: 2025

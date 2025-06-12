@@ -9,8 +9,11 @@ These lecture notes were developed while teaching the courses STAT 41551 ("Empir
 
 ## Courses as Instructor at UChicago Statistics
 
-| Semester        | Course              |   Course Title                                                        | 
+| Quarter        | Course              |   Course Title                                                        | 
 | --------------- | ------------------- | --------------------------------------------------------------------- | 
+| Winter 2025     | STAT 41551   | Empirical Bayes                    |
+| Winter 2025      | STAT 27400/37400, DATA 37400| Nonparametric Inference            |
+| Autumn 2024     | STAT 34300   | Applied Linear Statistical Methods | 
 | Winter 2024     | STAT 41551   | Empirical Bayes                    |
 | Autumn 2023     | STAT 34300   | Applied Linear Statistical Methods | 
 

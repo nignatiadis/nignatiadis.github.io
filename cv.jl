@@ -13,7 +13,7 @@ sorted_talks = talk_names[_order]
 
 
 
-texname = "ignatiadis_cv4.tex"
+texname = "ignatiadis_cv.tex"
 
 
 
@@ -139,9 +139,11 @@ Thesis advisors: Wolfgang Huber and Rainer Dahlhaus
 
 
 \section{\sc Awards and Fellowships }
-\textbf{Jerome H. Friedman Applied Statistics Dissertation Award} \hfill 2022\\
+\textbf{National Science Foundation (NSF) CAREER Award} \hfill 2025 - 2030\\ 
+CAREER: Extending the reach of empirical Bayes: Calibration, nuisance parameters, likelihood asymptotics, and machine learning.\\
+\textbf{Jerome H. Friedman Applied Statistics Dissertation Award}, Stanford \hfill 2022\\
 For developing methodology that uses side information for increased power in multiple testing problems and for developing approaches to inference in empirical Bayes problems.\\
-\textbf{Ric Weiland Graduate Fellowship  in the Humanities \& Sciences } \hfill 2020 - 2021\\
+\textbf{Ric Weiland Graduate Fellowship  in the Humanities \& Sciences}, Stanford \hfill 2020 - 2021\\
 This fellowship is awarded to exceptional rising fourth year doctoral candidates in the humanities, social sciences, mathematics, and
 statistics upon departmental or programmatic nomination.\\
 \textbf{Departmental Teaching Assistant Award}, Statistics Department, Stanford  \hfill  2018\\
@@ -161,7 +163,11 @@ latex = L"""
 \begin{list1}
 """
 
-journal_keys = ["IgnatiadisWangRamdas2023",
+journal_keys = ["IgnatiadisSen2023",
+                "Eckles2022",
+                "IgnatiadisSun2024fission",
+                "Yang2024",
+                "IgnatiadisWangRamdas2023",
                 "Steinberg2023",
                 "IgnatiadisSahaSunMuralidharan2021",
                 "IgnatiadisWager2022Rejoinder",
@@ -197,7 +203,8 @@ latex = L"""
 \begin{list1}
 """
 
-conference_keys = ["Pfohl2022",
+conference_keys = ["LiIgnatiadis2025",
+    "Pfohl2022",
     "IgnatiadisWager2019"]
 
 for key in conference_keys
@@ -246,9 +253,10 @@ latex = L"""
 \begin{list1}
 """
 
-preprint_keys = ["XiangIgnatiadisMcCullagh2024",
-    "IgnatiadisSen2023",
-    "Eckles2022",
+preprint_keys = ["GhoshIgnatiadisKoehlerLee2025",
+    "JaffeIgnatiadisSen2025",
+    "IgnatiadisWangRamdas2024compound",
+    "XiangIgnatiadisMcCullagh2024",
     "IgnatiadisLolas2021"
     ]
 
@@ -271,6 +279,11 @@ for key in preprint_keys
 latex = L"""
 %$(latex)
 \end{list1}
+
+
+\section{\sc Grants}
+\textbf{NSF CAREER Award: 2443410}, Division: DMS, Amount: 400,000\$ \hfill 2025 - 2030\\
+Project Title: ``CAREER: Extending the reach of empirical Bayes: Calibration, nuisance parameters, likelihood asymptotics, and machine learning'' 
 
 
 \section{\sc Invited discussions}
@@ -296,7 +309,8 @@ Journal of the Royal Statistical Society--Series B (JRSS-B),
 Journal of Statistical Software (JSS),
 Sankhy\=a A,
 Statistical Papers,
-Statistical Science
+Statistical Science,
+Statistics
 
 \ver
 
@@ -305,12 +319,16 @@ Bioinformatics,
 Bioinformatics Advances,
 BMC Medical Research Methodology,
 Econometrica,
+Epidemiologic Methods,
+Journal of Applied Econometrics,
 Journal of Cell Science,
 Journal of Political Economy Microeconomics (JPE Micro),
 Management Science,
+Nature Communications,
 Nature Protocols,
 Operations Research,
 PeerJ,
+Quantitative Economics,
 SIAM/ASA Journal on Uncertainty Quantification (JUQ)
 
 \ver
@@ -369,6 +387,9 @@ Research assistant in the group of Dr. Wolfgang Huber.
 
 \section{\sc Teaching}
 \textbf{Instructor} at University of Chicago\\
+STAT 41551: Empirical Bayes. \hfill Winter 2025\\
+STAT 27400/STAT 37400/DATA 37400: Nonparametric Inference. \hfill Winter 2025\\
+STAT 34300: Applied Linear Statistical Methods. \hfill Autumn 2024\\
 STAT 41551: Empirical Bayes. \hfill Winter 2024\\
 STAT 34300: Applied Linear Statistical Methods. \hfill Autumn 2023
 
@@ -430,4 +451,4 @@ open(texname, "w") do file
     write(file, latex)
 end
 
-run(`tectonic ignatiadis_cv4.tex`)
+run(`tectonic ignatiadis_cv.tex`)

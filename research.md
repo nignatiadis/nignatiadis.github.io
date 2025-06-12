@@ -11,6 +11,7 @@
 
 @def ebayes_papers = [
     "GhoshIgnatiadisKoehlerLee2025";
+    "JaffeIgnatiadisSen2025";
     "LiIgnatiadis2025";
     "IgnatiadisSen2023";
     "IgnatiadisSun2024fission";
