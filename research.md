@@ -10,6 +10,7 @@
 
 
 @def ebayes_papers = [
+    "GuIgnatiadisShaikh2025";
     "GhoshIgnatiadisKoehlerLee2025";
     "JaffeIgnatiadisSen2025";
     "LiIgnatiadis2025";
@@ -45,6 +46,7 @@
 ### Applied Collaborations
 
 @def applied_papers = [
+    "Sherry2005";
     "Yang2024";
     "Steinberg2023";
     "Pfohl2022"; 
