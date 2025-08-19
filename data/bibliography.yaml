@@ -279,6 +279,7 @@
     type: "Preprint"
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2409.19812"
+    reproduction_code: "https://github.com/nignatiadis/compound-evalues-paper"
     year: 2025
 
 
@@ -302,7 +303,8 @@
         - Nikolaos Ignatiadis
     title: "Prediction-Powered Adaptive Shrinkage Estimation"
     type: "Journal"
-    journal: "42nd International Conference on Machine Learning (ICML 2025; accepted)"
+    journal: "42nd International Conference on Machine Learning (ICML 2025)"
+    conference: "https://openreview.net/forum?id=3xvnJS8H1v"
     arXiv: "https://arxiv.org/abs/2502.14166"
     reproduction_code: "https://github.com/listar2000/prediction-powered-adaptive-shrinkage"
     year: 2025
@@ -317,6 +319,7 @@
     type: "Preprint"
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2502.20123"
+    reproduction_code: "https://github.com/sulagna-ghosh/score-matching-empirical-bayes"
     year: 2025
 
 "JaffeIgnatiadisSen2025":
@@ -328,4 +331,35 @@
     type: "Preprint"
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2506.09986"
+    reproduction_code: "https://github.com/aqjaffe/constrained-denoising-EB-OT"
+    year: 2025
+
+"Sherry2005":
+    author:
+        - Alexander D. Sherry
+        - Pavlos Msaouel
+        - Avital M. Miller
+        - Timothy A. Lin
+        - Joseph Abi Jaoude
+        - Ramez Kouzy
+        - Adina H. Passy
+        - Tomer Meirson
+        - Nikolaos Ignatiadis
+        - Zachary R McCaw
+        - Erik van Zwet
+        - Ethan B. Ludmir
+    title: "Reproducibility of Statistically Significant Phase III Oncology Trials: An In Silico Meta-Epidemiological Analysis"
+    journal: "European Journal of Cancer, 226, 115596"
+    closedaccess: "https://doi.org/10.1016/j.ejca.2025.115596"
+    year: 2025
+    
+"GuIgnatiadisShaikh2025":
+    author:
+        - Jiaying Gu
+        - Nikolaos Ignatiadis
+        - Azeem M. Shaikh
+    title: "Reasonable uncertainty: Confidence intervals in empirical Bayes discrimination detection"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2508.13110"
     year: 2025
