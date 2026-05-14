@@ -43,14 +43,16 @@ function tooltip_code(url, class)
 end
 
 
-function bibprint(yamlkey)
+function bibprint(yamlkey; highlighted=false)
     entry = bibliography[yamlkey]
     names = join(["""<span class="person">$name</span>""" for name ∈ entry["author"] ], ", ")
     year = """<span class="year">$(entry["year"])</span>"""
     title = """<span class="title">$(entry["title"]).</span>"""
     journal = """<span class="journal">$(entry["journal"]).</span>"""
+    
+    li_class = highlighted ? """ class="highlighted-paper\"""" : ""
     html_string = """
-    <li>
+    <li$(li_class)>
     $(names)
     $(year)<br>
     $(title)<br>
@@ -95,6 +97,24 @@ function hfun_bibliographyprint(yamlkeys)
         html_string = """
         $(html_string)
         $(bibprint(key))
+        """
+    end
+    """
+    $(html_string)
+    </ol>
+    """
+end
+
+function hfun_bibliographyprint_highlighted(params)
+    keys = locvar(params[1])
+    highlighted_keys = length(params) > 1 ? locvar(params[2]) : String[]
+    
+    html_string = """<ol>"""
+    for key in keys
+        is_highlighted = key in highlighted_keys
+        html_string = """
+        $(html_string)
+        $(bibprint(key; highlighted=is_highlighted))
         """
     end
     """

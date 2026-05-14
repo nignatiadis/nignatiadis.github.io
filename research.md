@@ -10,9 +10,14 @@
 
 
 @def ebayes_papers = [
+    "LingLiGuanIgnatiadis2026";
+    "IgnatiadisKankanala2026";
+    "ChenGuanZwetIgnatiadis2026";
+    "IgnatiadisMa2025";
+    "LingHongIgnatiadis2025";
     "GuIgnatiadisShaikh2025";
-    "GhoshIgnatiadisKoehlerLee2025";
     "JaffeIgnatiadisSen2025";
+    "GhoshIgnatiadisKoehlerLee2025";
     "LiIgnatiadis2025";
     "IgnatiadisSen2023";
     "IgnatiadisSun2024fission";
@@ -21,19 +26,29 @@
     "IgnatiadisLolas2021";
     "IgnatiadisWager2019"]
 
-{{ bibliographyprint ebayes_papers }}
+@def ebayes_highlighted = [
+    "GhoshIgnatiadisKoehlerLee2025";
+    "IgnatiadisSen2023";
+    "IgnatiadisWager2022"]
+
+{{ bibliographyprint_highlighted ebayes_papers ebayes_highlighted }}
 
 
 ### Statistical methodology: Multiple testing
 
 @def multiple_testing_papers = [
-    "IgnatiadisWangRamdas2024compound";
     "XiangIgnatiadisMcCullagh2024";
+    "IgnatiadisWangRamdas2026";
+    "IgnatiadisWangRamdas2024compound";
     "IgnatiadisWangRamdas2023";
     "IgnatiadisHuber2021"; 
     "IgnatiadisKlausZauggHuber2016"]
 
-{{ bibliographyprint multiple_testing_papers }}
+@def multiple_testing_highlighted = [
+    "IgnatiadisHuber2021";]
+
+
+{{ bibliographyprint_highlighted multiple_testing_papers multiple_testing_highlighted }}
 
 
 ### Statistical methodology: Causal inference

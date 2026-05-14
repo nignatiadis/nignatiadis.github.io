@@ -249,11 +249,11 @@
         - Nikolaos Ignatiadis
         - Peter McCullagh
     title: "Interpretation of local false discovery rates under the zero assumption"
-    type: "Preprint"
-    journal: "Working paper"
+    type: "Journal"
+    journal: "Statistical Science (forthcoming)"
     arXiv: "https://arxiv.org/abs/2402.08792"
     reproduction_code: "https://github.com/nignatiadis/local-fdr-interpretation-paper"
-    year: 2025
+    year: 2026
 
 
 "Yang2024":
@@ -363,3 +363,76 @@
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2508.13110"
     year: 2025
+
+
+"IgnatiadisWangRamdas2026":
+    author:
+        - Nikolaos Ignatiadis
+        - Ruodu Wang
+        - Aaditya Ramdas
+    title: "Tiny but uniform improvements of adaptive BH procedures via compound e-values"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2603.21424"
+    reproduction_code: "https://github.com/nignatiadis/compound-evalues-paper"
+    year: 2026
+
+
+"IgnatiadisKankanala2026":
+    author:
+        - Nikolaos Ignatiadis
+        - Sid Kankanala
+    title: "Compound decisions and empirical Bayes via Bayesian nonparametrics"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2602.20115"
+    year: 2026
+
+
+"ChenGuanZwetIgnatiadis2026":
+    author:
+        - Hunter Chen
+        - Junming Guan
+        - Erik van Zwet
+        - Nikolaos Ignatiadis
+    title: "Empirical Bayes learning from selectively reported confidence intervals"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2512.13622"
+    year: 2026
+
+
+"IgnatiadisMa2025":
+    author:
+        - Nikolaos Ignatiadis
+        - Li Ma
+    title: "Partially Bayes p-values for large-scale inference"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2512.08847"
+    reproduction_code: "https://github.com/nignatiadis/partially-bayes-pvalues-paper"
+    year: 2025
+
+"LingHongIgnatiadis2025":
+    author:
+        - Wanyi Ling
+        - Wufang Hong
+        - Nikolaos Ignatiadis
+    title: "Empirical partially Bayes two sample testing"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2510.00432"
+    reproduction_code: "https://github.com/wyling01/TwoSampleEPB-Paper"
+    year: 2025
+
+"LingLiGuanIgnatiadis2026":
+    author:
+        - Wanyi Ling
+        - Sida Li
+        - Junming Guan
+        - Nikolaos Ignatiadis
+    title: "Empirical Bayes Rebiasing"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2605.08069"
+    year: 2026

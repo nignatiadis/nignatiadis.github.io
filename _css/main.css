@@ -476,3 +476,18 @@ ul {
     margin: 0; 
     padding: 0;
 }
+
+/* ==================================================================
+    HIGHLIGHTED PAPERS
+================================================================== */
+
+.highlighted-paper {
+    background-color: #e8f2fc;
+    border: 1px solid #c0d9f1;
+    border-left: 6px solid #3968a3;
+    border-radius: 6px;
+    padding: 14px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(57, 104, 163, 0.15);
+}
+
