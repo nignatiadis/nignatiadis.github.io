@@ -395,6 +395,16 @@
 Universal Inference, and Multiple Testing Based on E-values"
   location: "Oberwolfach, Germany"
 
+"DSIResearchDay2024":
+  title: "Analyzing thousands of t-tests with empirical Bayes"
+  year: 2024
+  month: "May"
+  day: 16
+  event:  "DSI (Data Science Institute) Research Day at the University of Chicago"
+  location: "Chicago, IL, USA"
+  link: "https://datascience.uchicago.edu/events/dsi-research-day/"
+
+
 "ISNPS2024":
   title: "Empirical partially Bayes multiple testing and compound χ² decisions"
   year: 2024
@@ -432,3 +442,61 @@ Universal Inference, and Multiple Testing Based on E-values"
   event:  "Empirical Bayes at the IMS International Conference on Statistics and Data Science (ICSDS)"
   location: "Nice, France"
   link: "https://sites.google.com/view/ims-icsds2024/home?authuser=0"
+
+
+"DSIResearchDay2025":
+  title: "Prediction-powered adaptive shrinkage estimation"
+  year: 2025
+  month: "May"
+  day: 2
+  event:  "DSI (Data Science Institute) Research Day at the University of Chicago"
+  location: "Chicago, IL, USA"
+  link: "https://datascience.uchicago.edu/events/dsi-research-day-2/"
+
+
+
+"Susan2025":
+  title: "How does variance moderation for differential expression work?"
+  year: 2025
+  month: "June"
+  day: 3
+  event:  "Bridging Biology and Statistics: Insights and Innovations for Modern Biology, a conference in honor of Susan Holmes"
+  location: "Stanford, CA, USA"
+  link: "https://www.eventcreate.com/e/stats4modernbiology"
+
+"BIRS2025":
+  title: "Asymptotic and compound e-values: multiple testing and empirical Bayes"
+  year: 2025
+  month: "July"
+  day: 3
+  event: "SAVI 2025: 3rd Workshop on Game-theoretic Statistics and Sequential, Anytime-Valid Inference"
+  location: "Chennai, India"
+  link: "https://www.birs.ca/events/2025/5-day-workshops/25w5482"
+
+"MCP2025":
+  title: "Asymptotic and compound e-values: multiple testing and empirical Bayes"
+  year: 2025
+  month: "August"
+  day: 13
+  event: "The role of e-values in multiple testing at the 13th International Conference on Multiple Comparison Procedures (MCP)"
+  location: "Philadelphia, PA, USA"
+  link: "https://isbiostat.org/wp-content/uploads/2025/08/MCP2025-Program-v6-2.pdf"
+
+"IDEAL2025":
+  title: "Empirical partially Bayes multiple testing and compound χ² decisions"
+  year: 2025
+  month: "October"
+  day: 29
+  event: "Uncertainty Quantification and Reliability, workshop as part of the Fall 2025 IDEAL Special Program on High Dimensional and Complex Data Analysis"
+  location: "Chicago, IL, USA"
+  link: "https://www.ideal-institute.org/2025/10/10/uncertainty-quantification-conformal-prediction-distribution-free-inference-confidence-sets/"
+
+"ISSI2026":
+  title: "Stein's unbiased risk estimate and Hyvärinen's score matching"
+  year: 2026
+  month: "January"
+  day: 29
+  event: "International Seminar on Selective Inference (ISSI)"
+  location: "Virtual"
+  video: "https://drive.google.com/file/d/1LrkoAdyCFGte-t7e00tANz8pe6HrprGR/view?usp=drive_link"
+ 
