@@ -12,6 +12,8 @@
 @def ebayes_papers = [
     "LingLiGuanIgnatiadis2026";
     "IgnatiadisKankanala2026";
+    "ChenDebIgnatiadis2026";
+    "NandyLingIgnatiadis2026";
     "ChenGuanZwetIgnatiadis2026";
     "IgnatiadisMa2025";
     "LingHongIgnatiadis2025";
@@ -37,6 +39,7 @@
 ### Statistical methodology: Multiple testing
 
 @def multiple_testing_papers = [
+    "XiangFithianIgnatiadisSoloffWeinstein2026";
     "XiangIgnatiadisMcCullagh2024";
     "IgnatiadisWangRamdas2026";
     "IgnatiadisWangRamdas2024compound";
