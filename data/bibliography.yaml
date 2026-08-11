@@ -436,3 +436,41 @@
     journal: "Working paper"
     arXiv: "https://arxiv.org/abs/2605.08069"
     year: 2026
+
+
+"NandyLingIgnatiadis2026":
+    author:
+        - Sagnik Nandy
+        - Wanyi Ling
+        - Nikolaos Ignatiadis
+    title: "How does limma-trend work? An empirical partially Bayes perspective"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2605.21304"
+    year: 2026
+
+
+"ChenDebIgnatiadis2026":
+    author:
+        - Jiafeng Chen
+        - Nabarun Deb
+        - Nikolaos Ignatiadis
+    title: "Normal approximations in nonparametric empirical Bayes"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2605.31599"
+    year: 2026
+
+"XiangFithianIgnatiadisSoloffWeinstein2026":
+    author:
+        - Daniel Xiang
+        - William Fithian
+        - Nikolaos Ignatiadis
+        - Jake A. Soloff
+        - Asaf Weinstein
+    title: "Estimating the local false discovery rate under an unknown symmetric null"
+    type: "Preprint"
+    journal: "Working paper"
+    arXiv: "https://arxiv.org/abs/2606.11548"
+    year: 2026
+    reproduction_code: "https://github.com/dan-xiang/clar-for-regression"
